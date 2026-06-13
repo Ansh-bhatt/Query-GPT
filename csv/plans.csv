@@ -1,0 +1,4 @@
+plan_id,plan_name,price_inr,duration_days,contact_credits
+1,Silver,999,30,20
+2,Gold,2499,90,75
+3,Platinum,4499,180,200

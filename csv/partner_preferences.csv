@@ -1,0 +1,2001 @@
+user_id,min_age,max_age,preferred_sect,min_education,preferred_cities
+1,24,34,Any,Bachelors,"Jaipur,Mumbai"
+2,22,31,Sunni,Masters,"Kolkata,Mumbai"
+3,24,34,Other,Bachelors,"Aligarh,Hyderabad"
+4,21,29,Any,High School,Mumbai
+5,21,26,Shia,High School,Mumbai
+6,21,25,Other,Bachelors,"Bhopal,Chennai,Hyderabad"
+7,21,25,Any,High School,"Lucknow,Patna"
+8,21,27,Prefer not to say,Masters,Any
+9,24,34,Any,High School,Any
+10,21,22,Any,High School,Bhopal
+11,22,32,Any,Masters,Bhopal
+12,25,34,Any,High School,"Bengaluru,Hyderabad,Kolkata"
+13,21,26,Sunni,Bachelors,"Aligarh,Delhi"
+14,21,23,Sunni,High School,Any
+15,21,26,Sunni,Masters,Any
+16,24,34,Sunni,Masters,Any
+17,21,29,Sunni,Masters,"Bengaluru,Delhi,Jaipur"
+18,27,37,Sunni,Masters,Hyderabad
+19,21,27,Sunni,Masters,"Hyderabad,Mumbai,Patna"
+20,21,27,Any,Masters,Any
+21,21,27,Sunni,Bachelors,"Hyderabad,Patna"
+22,21,22,Other,High School,"Aligarh,Kolkata"
+23,21,29,Shia,Masters,Any
+24,21,28,Sunni,Bachelors,Any
+25,25,35,Any,High School,"Aligarh,Delhi,Mumbai"
+26,21,28,Shia,High School,"Aligarh,Bhopal,Hyderabad"
+27,26,36,Sunni,Masters,"Aligarh,Bhopal"
+28,21,27,Sunni,High School,"Aligarh,Bhopal"
+29,21,28,Sunni,Masters,"Aligarh,Bengaluru,Hyderabad"
+30,21,27,Any,Masters,Jaipur
+31,21,25,Sunni,High School,Any
+32,30,39,Any,High School,"Hyderabad,Patna"
+33,21,30,Other,Bachelors,"Chennai,Mumbai"
+34,26,36,Sunni,High School,Mumbai
+35,21,26,Sunni,Bachelors,"Aligarh,Mumbai"
+36,21,26,Sunni,Bachelors,Any
+37,21,26,Sunni,High School,"Aligarh,Mumbai"
+38,21,24,Any,High School,Any
+39,22,32,Prefer not to say,Bachelors,Jaipur
+40,23,33,Any,Masters,"Chennai,Lucknow"
+41,22,32,Shia,Masters,Lucknow
+42,21,24,Any,Bachelors,"Chennai,Delhi"
+43,21,25,Other,Bachelors,"Chennai,Delhi"
+44,21,26,Any,High School,"Aligarh,Delhi,Jaipur"
+45,26,35,Any,Bachelors,Srinagar
+46,21,28,Any,Masters,Kolkata
+47,22,31,Sunni,Bachelors,"Delhi,Jaipur,Kolkata"
+48,25,35,Prefer not to say,Bachelors,Any
+49,22,31,Any,High School,Bengaluru
+50,27,37,Other,Masters,"Delhi,Hyderabad"
+51,21,26,Any,Masters,Bhopal
+52,23,33,Prefer not to say,Masters,"Bengaluru,Mumbai,Srinagar"
+53,21,26,Shia,High School,"Bengaluru,Srinagar"
+54,27,37,Sunni,Masters,Any
+55,35,45,Prefer not to say,Bachelors,"Aligarh,Bhopal,Mumbai"
+56,27,37,Any,Bachelors,"Bengaluru,Delhi,Jaipur"
+57,28,38,Sunni,Bachelors,Any
+58,31,41,Sunni,High School,"Aligarh,Jaipur"
+59,21,30,Sunni,Masters,Aligarh
+60,21,26,Any,Bachelors,Patna
+61,21,28,Sunni,Bachelors,Any
+62,34,44,Sunni,Bachelors,Kolkata
+63,26,36,Any,High School,"Aligarh,Bengaluru,Bhopal"
+64,27,37,Sunni,High School,Any
+65,24,33,Sunni,High School,"Bhopal,Delhi,Lucknow"
+66,25,35,Any,High School,Jaipur
+67,21,25,Shia,Bachelors,Bengaluru
+68,36,45,Sunni,Bachelors,Any
+69,32,42,Any,Masters,"Chennai,Kolkata,Mumbai"
+70,31,41,Any,Masters,"Aligarh,Bengaluru"
+71,24,34,Any,Masters,Any
+72,32,42,Sunni,Masters,"Aligarh,Mumbai"
+73,27,37,Any,High School,"Bhopal,Hyderabad,Jaipur"
+74,28,38,Any,Bachelors,"Delhi,Jaipur"
+75,21,26,Sunni,Bachelors,Srinagar
+76,22,32,Sunni,Masters,"Hyderabad,Patna"
+77,28,38,Sunni,Bachelors,Any
+78,24,34,Sunni,Bachelors,Any
+79,31,40,Shia,Masters,"Lucknow,Patna"
+80,21,26,Any,Bachelors,Srinagar
+81,21,26,Any,Masters,Any
+82,21,29,Any,Masters,"Bhopal,Jaipur,Lucknow"
+83,21,30,Sunni,High School,Any
+84,28,38,Prefer not to say,High School,"Bengaluru,Patna"
+85,25,34,Any,Masters,"Bengaluru,Jaipur,Lucknow"
+86,37,46,Sunni,High School,Bengaluru
+87,28,38,Any,Masters,Any
+88,39,49,Any,High School,Kolkata
+89,21,30,Sunni,Masters,Any
+90,23,32,Any,Bachelors,Any
+91,26,36,Sunni,Masters,"Bhopal,Patna,Srinagar"
+92,26,36,Sunni,Masters,"Aligarh,Chennai,Kolkata"
+93,23,33,Sunni,Masters,"Bengaluru,Jaipur"
+94,21,26,Any,High School,Any
+95,29,39,Sunni,High School,Any
+96,23,33,Sunni,Masters,"Chennai,Patna"
+97,24,34,Sunni,High School,"Bengaluru,Patna"
+98,21,24,Any,Masters,Any
+99,21,27,Any,High School,Mumbai
+100,27,37,Sunni,High School,Bhopal
+101,26,36,Sunni,Masters,"Aligarh,Srinagar"
+102,21,29,Any,Masters,Any
+103,21,29,Shia,High School,"Aligarh,Bengaluru,Lucknow"
+104,31,41,Any,High School,"Bengaluru,Hyderabad,Patna"
+105,42,52,Sunni,High School,Bhopal
+106,33,43,Any,Bachelors,"Aligarh,Bengaluru"
+107,21,28,Sunni,High School,Any
+108,22,32,Shia,High School,"Delhi,Jaipur,Kolkata"
+109,21,28,Sunni,Bachelors,"Aligarh,Bhopal"
+110,22,31,Sunni,Masters,"Kolkata,Lucknow"
+111,21,27,Sunni,Bachelors,Any
+112,21,29,Sunni,High School,Lucknow
+113,25,34,Any,Bachelors,Any
+114,21,27,Shia,High School,Chennai
+115,28,38,Sunni,Masters,Any
+116,33,43,Sunni,Masters,"Bengaluru,Hyderabad,Lucknow"
+117,21,25,Sunni,Masters,"Hyderabad,Srinagar"
+118,21,24,Any,Bachelors,"Bhopal,Lucknow"
+119,41,51,Sunni,Bachelors,Any
+120,30,40,Shia,High School,"Bengaluru,Chennai,Delhi"
+121,24,33,Sunni,Masters,Any
+122,26,36,Sunni,Bachelors,"Chennai,Kolkata,Patna"
+123,21,22,Sunni,Bachelors,"Bhopal,Jaipur,Srinagar"
+124,24,33,Any,Bachelors,Any
+125,21,30,Other,Bachelors,"Kolkata,Mumbai"
+126,21,29,Sunni,High School,Hyderabad
+127,26,36,Prefer not to say,High School,"Chennai,Jaipur"
+128,28,38,Any,Bachelors,"Bhopal,Chennai,Kolkata"
+129,21,24,Sunni,High School,"Jaipur,Kolkata"
+130,27,37,Sunni,Masters,"Jaipur,Patna"
+131,22,32,Any,High School,"Kolkata,Patna"
+132,34,43,Any,High School,Any
+133,26,36,Any,Bachelors,"Bhopal,Delhi"
+134,36,46,Sunni,Masters,"Kolkata,Srinagar"
+135,41,51,Sunni,Masters,"Aligarh,Delhi,Mumbai"
+136,29,38,Any,Bachelors,"Aligarh,Patna"
+137,21,30,Sunni,Masters,Srinagar
+138,21,22,Sunni,Masters,"Bhopal,Kolkata,Mumbai"
+139,27,37,Any,Masters,"Bengaluru,Jaipur,Lucknow"
+140,21,29,Any,Bachelors,Any
+141,34,43,Any,Masters,Any
+142,21,29,Any,Bachelors,"Delhi,Srinagar"
+143,24,34,Sunni,Masters,"Aligarh,Jaipur"
+144,21,29,Prefer not to say,Bachelors,Srinagar
+145,24,33,Other,Bachelors,"Hyderabad,Jaipur"
+146,25,34,Any,Masters,"Aligarh,Mumbai"
+147,23,32,Any,Bachelors,"Mumbai,Srinagar"
+148,21,30,Sunni,High School,"Hyderabad,Mumbai"
+149,24,33,Sunni,Masters,"Lucknow,Mumbai"
+150,21,22,Any,Masters,Any
+151,21,26,Sunni,High School,Patna
+152,22,32,Other,Bachelors,Any
+153,21,22,Shia,Masters,"Chennai,Patna,Srinagar"
+154,25,35,Any,Masters,"Bhopal,Chennai"
+155,29,39,Any,Masters,Any
+156,21,26,Sunni,Masters,Any
+157,21,31,Sunni,Bachelors,"Bhopal,Chennai,Delhi"
+158,21,26,Any,Masters,"Jaipur,Mumbai"
+159,22,31,Any,Masters,"Hyderabad,Patna"
+160,21,28,Prefer not to say,High School,Lucknow
+161,21,26,Sunni,High School,Delhi
+162,21,27,Sunni,High School,Lucknow
+163,21,31,Sunni,High School,Any
+164,27,37,Shia,High School,Any
+165,21,30,Any,High School,Any
+166,21,26,Sunni,Bachelors,Bhopal
+167,21,27,Any,High School,"Chennai,Jaipur,Patna"
+168,21,27,Any,High School,"Bengaluru,Kolkata"
+169,21,23,Any,High School,Any
+170,21,27,Sunni,Masters,Any
+171,31,41,Any,High School,Aligarh
+172,31,40,Shia,Masters,"Aligarh,Chennai"
+173,21,23,Any,Masters,Any
+174,25,35,Any,Masters,Any
+175,21,27,Sunni,Masters,Any
+176,26,36,Any,High School,Any
+177,21,23,Any,Bachelors,Any
+178,28,38,Other,Masters,Chennai
+179,30,40,Sunni,Bachelors,"Chennai,Lucknow,Srinagar"
+180,23,32,Sunni,Masters,"Bengaluru,Jaipur"
+181,26,36,Sunni,High School,Any
+182,35,44,Sunni,Masters,"Bhopal,Lucknow"
+183,22,32,Sunni,Masters,"Bengaluru,Delhi,Hyderabad"
+184,28,38,Any,High School,"Hyderabad,Mumbai,Patna"
+185,25,34,Sunni,Masters,"Jaipur,Lucknow"
+186,21,27,Sunni,High School,"Jaipur,Patna"
+187,21,28,Sunni,High School,"Aligarh,Lucknow,Srinagar"
+188,21,30,Shia,Masters,Lucknow
+189,21,25,Other,High School,"Jaipur,Lucknow,Patna"
+190,21,26,Sunni,Masters,Any
+191,26,35,Sunni,High School,"Bengaluru,Bhopal,Kolkata"
+192,23,33,Other,Bachelors,Aligarh
+193,23,33,Any,High School,Delhi
+194,21,26,Other,Masters,"Bengaluru,Jaipur"
+195,25,35,Any,High School,"Bengaluru,Lucknow,Mumbai"
+196,21,26,Any,High School,Any
+197,28,37,Sunni,Bachelors,Mumbai
+198,25,35,Other,Masters,"Jaipur,Patna"
+199,24,33,Sunni,High School,"Bhopal,Jaipur,Mumbai"
+200,23,32,Other,High School,"Delhi,Jaipur,Patna"
+201,24,34,Sunni,Bachelors,Any
+202,25,34,Sunni,Bachelors,"Delhi,Hyderabad,Kolkata"
+203,22,32,Any,Masters,Any
+204,31,41,Shia,High School,Chennai
+205,27,36,Prefer not to say,Masters,Kolkata
+206,21,24,Any,High School,"Chennai,Delhi,Patna"
+207,21,27,Sunni,Masters,"Jaipur,Lucknow"
+208,32,42,Any,Masters,Delhi
+209,21,28,Any,High School,Any
+210,21,25,Any,Bachelors,Any
+211,37,47,Sunni,Masters,"Bengaluru,Hyderabad,Srinagar"
+212,27,37,Shia,Bachelors,"Bengaluru,Delhi,Srinagar"
+213,22,31,Sunni,Bachelors,"Bengaluru,Srinagar"
+214,21,27,Sunni,Masters,Jaipur
+215,29,38,Sunni,Masters,Any
+216,21,27,Sunni,Masters,"Bengaluru,Jaipur,Mumbai"
+217,28,38,Any,High School,Patna
+218,21,27,Sunni,Bachelors,"Chennai,Mumbai,Patna"
+219,21,28,Any,Masters,Any
+220,21,31,Sunni,Bachelors,"Jaipur,Srinagar"
+221,25,34,Sunni,High School,"Bengaluru,Delhi,Lucknow"
+222,21,27,Sunni,Masters,Srinagar
+223,26,36,Sunni,Masters,Any
+224,21,27,Sunni,Masters,Any
+225,21,30,Any,Bachelors,"Bhopal,Delhi,Lucknow"
+226,21,28,Any,Masters,Any
+227,24,34,Other,Masters,"Jaipur,Patna"
+228,21,30,Sunni,Masters,"Bengaluru,Bhopal,Delhi"
+229,21,26,Sunni,Masters,Bengaluru
+230,27,37,Any,High School,Any
+231,34,44,Any,High School,"Chennai,Lucknow,Mumbai"
+232,38,48,Any,Masters,"Kolkata,Srinagar"
+233,22,31,Sunni,Masters,Any
+234,22,31,Sunni,Masters,Aligarh
+235,24,34,Sunni,Bachelors,"Kolkata,Lucknow"
+236,22,31,Any,High School,Any
+237,27,37,Sunni,High School,Any
+238,21,27,Any,High School,Patna
+239,28,38,Any,Bachelors,Any
+240,21,29,Any,Bachelors,Mumbai
+241,21,26,Any,Masters,Hyderabad
+242,25,35,Sunni,High School,Any
+243,28,38,Any,Bachelors,Any
+244,21,27,Sunni,Masters,"Bengaluru,Mumbai,Srinagar"
+245,21,25,Any,High School,Mumbai
+246,21,29,Sunni,Bachelors,"Chennai,Delhi,Mumbai"
+247,27,37,Sunni,High School,"Chennai,Jaipur"
+248,21,26,Any,Bachelors,"Aligarh,Jaipur,Lucknow"
+249,21,29,Any,High School,Bengaluru
+250,28,38,Sunni,Masters,"Bengaluru,Bhopal,Delhi"
+251,21,29,Sunni,Masters,Srinagar
+252,21,26,Any,Masters,Any
+253,24,34,Sunni,Bachelors,"Bengaluru,Hyderabad,Srinagar"
+254,21,26,Shia,Bachelors,"Hyderabad,Kolkata"
+255,21,24,Shia,High School,Aligarh
+256,26,36,Sunni,Bachelors,Delhi
+257,23,33,Sunni,Masters,"Aligarh,Bhopal"
+258,22,32,Any,Masters,"Jaipur,Kolkata,Mumbai"
+259,27,37,Any,Bachelors,"Aligarh,Kolkata"
+260,33,43,Any,High School,"Hyderabad,Jaipur,Kolkata"
+261,21,23,Sunni,Bachelors,Any
+262,37,47,Any,High School,"Hyderabad,Patna,Srinagar"
+263,21,24,Any,Bachelors,Any
+264,27,37,Shia,High School,Any
+265,30,39,Any,Bachelors,Any
+266,36,46,Any,Bachelors,"Aligarh,Lucknow,Mumbai"
+267,23,32,Any,High School,"Delhi,Lucknow"
+268,22,31,Any,High School,Lucknow
+269,24,34,Sunni,Bachelors,Bengaluru
+270,21,25,Sunni,Masters,"Bhopal,Lucknow"
+271,24,33,Shia,Masters,"Delhi,Jaipur,Kolkata"
+272,26,36,Shia,High School,Any
+273,21,25,Any,Bachelors,Chennai
+274,26,36,Other,Masters,Any
+275,24,34,Sunni,Masters,"Bhopal,Hyderabad,Kolkata"
+276,25,35,Any,High School,Any
+277,28,38,Sunni,Bachelors,"Bengaluru,Chennai,Patna"
+278,23,33,Any,Masters,"Aligarh,Chennai"
+279,23,33,Sunni,High School,Delhi
+280,32,42,Any,Bachelors,"Bhopal,Kolkata"
+281,26,36,Any,High School,Any
+282,31,41,Any,Masters,"Bengaluru,Delhi"
+283,22,31,Prefer not to say,High School,"Aligarh,Jaipur,Lucknow"
+284,23,33,Any,Bachelors,Any
+285,21,26,Sunni,Masters,Any
+286,31,41,Sunni,Bachelors,"Bengaluru,Bhopal,Jaipur"
+287,21,27,Any,Masters,Any
+288,43,53,Sunni,High School,"Kolkata,Mumbai,Patna"
+289,21,26,Sunni,High School,"Bhopal,Hyderabad,Lucknow"
+290,21,26,Sunni,Masters,"Jaipur,Kolkata"
+291,26,35,Any,High School,Chennai
+292,24,33,Other,Bachelors,Any
+293,24,34,Other,High School,"Aligarh,Bengaluru,Chennai"
+294,21,30,Sunni,Bachelors,Any
+295,29,39,Sunni,Bachelors,"Delhi,Jaipur,Kolkata"
+296,32,41,Sunni,Masters,Bhopal
+297,27,37,Any,Bachelors,Any
+298,39,49,Any,High School,"Bengaluru,Hyderabad,Patna"
+299,21,29,Any,High School,Chennai
+300,21,28,Any,Masters,"Bhopal,Chennai,Mumbai"
+301,21,29,Any,Bachelors,Any
+302,21,29,Prefer not to say,Masters,"Bengaluru,Bhopal,Lucknow"
+303,34,44,Shia,Bachelors,Any
+304,21,29,Sunni,Masters,"Jaipur,Lucknow,Mumbai"
+305,37,47,Sunni,High School,Any
+306,21,29,Sunni,Masters,"Bengaluru,Jaipur"
+307,23,32,Shia,High School,Any
+308,24,34,Sunni,Masters,"Aligarh,Bhopal,Delhi"
+309,27,37,Any,High School,"Aligarh,Jaipur"
+310,30,40,Shia,High School,Any
+311,28,38,Sunni,Bachelors,"Hyderabad,Mumbai"
+312,21,27,Any,Masters,Jaipur
+313,21,28,Any,Bachelors,"Bhopal,Hyderabad"
+314,30,40,Sunni,High School,"Hyderabad,Jaipur,Kolkata"
+315,37,46,Any,Bachelors,"Jaipur,Srinagar"
+316,21,24,Sunni,Masters,"Bengaluru,Chennai,Hyderabad"
+317,25,35,Sunni,High School,Any
+318,32,42,Any,Bachelors,Hyderabad
+319,21,23,Prefer not to say,Bachelors,"Bengaluru,Patna"
+320,23,32,Shia,Masters,"Delhi,Hyderabad"
+321,27,36,Shia,Masters,"Bhopal,Srinagar"
+322,21,29,Any,High School,Bhopal
+323,21,27,Sunni,Masters,Hyderabad
+324,21,29,Any,High School,"Aligarh,Patna"
+325,26,36,Any,Masters,"Chennai,Delhi,Kolkata"
+326,21,31,Shia,Masters,"Jaipur,Kolkata,Mumbai"
+327,21,26,Any,Masters,Any
+328,21,27,Other,High School,Any
+329,21,27,Shia,Bachelors,"Delhi,Hyderabad,Srinagar"
+330,42,52,Any,Bachelors,Bengaluru
+331,21,22,Sunni,High School,Mumbai
+332,33,43,Sunni,Bachelors,"Kolkata,Mumbai"
+333,25,35,Prefer not to say,Bachelors,Patna
+334,25,35,Sunni,Masters,Any
+335,23,33,Any,High School,Any
+336,26,36,Sunni,High School,Any
+337,24,34,Any,Bachelors,"Aligarh,Hyderabad"
+338,21,25,Any,Bachelors,"Kolkata,Patna,Srinagar"
+339,30,39,Sunni,High School,"Hyderabad,Srinagar"
+340,21,30,Sunni,Masters,"Aligarh,Jaipur"
+341,21,29,Prefer not to say,Masters,Srinagar
+342,21,26,Sunni,High School,Mumbai
+343,21,28,Sunni,High School,Any
+344,24,33,Any,Bachelors,"Hyderabad,Kolkata,Lucknow"
+345,21,28,Any,Masters,Any
+346,21,27,Sunni,Bachelors,"Jaipur,Lucknow"
+347,21,26,Any,High School,"Chennai,Patna,Srinagar"
+348,28,38,Any,High School,Aligarh
+349,23,33,Any,Masters,"Aligarh,Bengaluru,Kolkata"
+350,22,32,Any,High School,Any
+351,32,41,Any,Bachelors,"Chennai,Jaipur"
+352,30,39,Sunni,High School,"Bengaluru,Bhopal,Delhi"
+353,21,28,Any,High School,"Chennai,Jaipur,Kolkata"
+354,31,40,Any,Bachelors,Any
+355,21,25,Shia,Bachelors,Any
+356,23,32,Any,Bachelors,Kolkata
+357,28,38,Shia,High School,Any
+358,21,28,Any,Bachelors,Any
+359,21,29,Sunni,Bachelors,Any
+360,22,32,Sunni,Bachelors,Patna
+361,21,26,Any,High School,"Aligarh,Lucknow"
+362,21,28,Shia,High School,Any
+363,21,27,Any,Masters,"Hyderabad,Kolkata,Mumbai"
+364,24,34,Any,Masters,"Hyderabad,Patna"
+365,32,42,Any,Masters,Hyderabad
+366,23,33,Any,Masters,"Lucknow,Srinagar"
+367,25,35,Prefer not to say,Bachelors,"Chennai,Mumbai"
+368,30,40,Other,Bachelors,Any
+369,25,35,Any,Masters,"Chennai,Jaipur,Lucknow"
+370,27,37,Any,Masters,Jaipur
+371,30,40,Sunni,Bachelors,Any
+372,26,36,Sunni,Masters,Kolkata
+373,31,41,Shia,Masters,"Chennai,Srinagar"
+374,21,31,Any,Bachelors,"Bhopal,Delhi,Patna"
+375,29,39,Any,High School,Delhi
+376,25,35,Any,Bachelors,"Delhi,Patna"
+377,22,31,Prefer not to say,High School,Bengaluru
+378,23,33,Sunni,High School,"Delhi,Jaipur,Lucknow"
+379,37,47,Any,High School,"Bhopal,Lucknow,Mumbai"
+380,21,25,Prefer not to say,Masters,"Hyderabad,Lucknow,Patna"
+381,24,33,Any,Masters,"Aligarh,Patna,Srinagar"
+382,21,27,Prefer not to say,Masters,Any
+383,23,33,Sunni,Masters,"Aligarh,Chennai,Lucknow"
+384,21,30,Sunni,Masters,"Delhi,Jaipur"
+385,21,24,Any,Masters,"Kolkata,Patna,Srinagar"
+386,21,26,Other,Masters,Any
+387,21,24,Other,Masters,Patna
+388,21,25,Any,Bachelors,Any
+389,28,38,Sunni,Bachelors,Any
+390,22,32,Any,Bachelors,Bhopal
+391,35,44,Shia,Masters,Any
+392,21,24,Sunni,High School,Any
+393,21,25,Any,High School,"Hyderabad,Lucknow"
+394,21,24,Sunni,Bachelors,"Hyderabad,Lucknow,Patna"
+395,21,28,Other,Bachelors,Mumbai
+396,30,40,Other,High School,Any
+397,25,35,Sunni,High School,"Kolkata,Patna"
+398,25,35,Prefer not to say,Bachelors,Any
+399,21,28,Prefer not to say,Bachelors,Any
+400,34,44,Any,High School,"Jaipur,Mumbai"
+401,21,28,Any,High School,Jaipur
+402,21,26,Sunni,Bachelors,"Aligarh,Mumbai,Patna"
+403,21,27,Sunni,Bachelors,"Chennai,Delhi"
+404,21,27,Sunni,Bachelors,Any
+405,23,33,Any,Masters,Any
+406,21,23,Sunni,Bachelors,"Chennai,Mumbai,Patna"
+407,21,24,Any,Bachelors,"Delhi,Hyderabad"
+408,21,27,Shia,Bachelors,"Aligarh,Patna"
+409,21,29,Prefer not to say,Masters,"Bhopal,Lucknow"
+410,25,35,Sunni,Bachelors,"Aligarh,Bengaluru,Hyderabad"
+411,21,24,Sunni,Bachelors,Any
+412,32,41,Any,High School,"Bengaluru,Hyderabad,Jaipur"
+413,21,25,Any,Masters,Any
+414,27,37,Any,Masters,Any
+415,21,29,Any,High School,"Delhi,Lucknow,Patna"
+416,28,38,Sunni,Masters,Any
+417,21,27,Any,Masters,"Kolkata,Lucknow,Srinagar"
+418,24,34,Any,Bachelors,Bhopal
+419,22,31,Any,Bachelors,Any
+420,25,34,Any,Bachelors,Any
+421,23,32,Sunni,Bachelors,"Aligarh,Jaipur,Mumbai"
+422,21,24,Any,Masters,Kolkata
+423,23,32,Any,Masters,"Bengaluru,Lucknow"
+424,26,36,Any,Bachelors,Any
+425,21,27,Any,Masters,"Hyderabad,Jaipur,Patna"
+426,21,26,Sunni,Masters,"Bengaluru,Kolkata,Patna"
+427,28,38,Any,Masters,"Bengaluru,Bhopal,Kolkata"
+428,23,33,Sunni,Bachelors,Any
+429,21,27,Sunni,High School,Any
+430,38,48,Any,High School,"Chennai,Lucknow"
+431,23,32,Shia,Masters,"Chennai,Lucknow,Mumbai"
+432,26,36,Any,High School,"Chennai,Mumbai"
+433,21,27,Sunni,High School,Lucknow
+434,21,26,Sunni,High School,"Aligarh,Chennai,Lucknow"
+435,21,26,Shia,Bachelors,Any
+436,22,31,Any,Masters,Any
+437,24,33,Sunni,Bachelors,"Bengaluru,Chennai,Delhi"
+438,23,32,Sunni,Bachelors,"Bhopal,Chennai,Hyderabad"
+439,21,25,Any,Masters,Any
+440,21,30,Any,Bachelors,Jaipur
+441,21,25,Any,Bachelors,"Bhopal,Kolkata,Srinagar"
+442,22,31,Shia,High School,"Delhi,Mumbai"
+443,22,32,Shia,Bachelors,"Lucknow,Mumbai"
+444,23,32,Any,High School,Bengaluru
+445,21,30,Sunni,Masters,Any
+446,21,30,Sunni,Bachelors,"Delhi,Lucknow"
+447,21,22,Any,Bachelors,"Bhopal,Kolkata"
+448,29,39,Any,Bachelors,"Delhi,Jaipur,Patna"
+449,21,26,Any,Bachelors,"Delhi,Kolkata,Patna"
+450,28,38,Sunni,Masters,Lucknow
+451,21,31,Any,High School,"Hyderabad,Lucknow,Srinagar"
+452,21,26,Any,Bachelors,"Bhopal,Chennai,Srinagar"
+453,27,37,Sunni,Masters,"Jaipur,Srinagar"
+454,22,32,Any,Bachelors,"Aligarh,Bhopal,Chennai"
+455,21,28,Sunni,High School,"Aligarh,Jaipur"
+456,21,28,Sunni,Bachelors,"Aligarh,Bengaluru,Lucknow"
+457,26,36,Shia,High School,"Hyderabad,Srinagar"
+458,28,38,Any,High School,Any
+459,22,32,Any,High School,"Kolkata,Patna"
+460,22,31,Sunni,Masters,"Chennai,Delhi"
+461,21,28,Any,Bachelors,"Hyderabad,Jaipur,Patna"
+462,26,36,Sunni,Bachelors,Any
+463,24,34,Any,Masters,"Aligarh,Bengaluru,Kolkata"
+464,25,34,Any,Masters,Any
+465,25,35,Any,Bachelors,Any
+466,22,31,Sunni,Bachelors,Patna
+467,28,38,Other,Bachelors,Srinagar
+468,36,46,Any,Bachelors,Bengaluru
+469,24,34,Sunni,High School,"Aligarh,Bhopal,Jaipur"
+470,21,27,Any,High School,"Bhopal,Chennai"
+471,21,25,Prefer not to say,Masters,"Bhopal,Jaipur"
+472,24,33,Shia,Masters,Jaipur
+473,36,45,Sunni,Bachelors,"Jaipur,Kolkata,Mumbai"
+474,21,25,Any,Bachelors,Lucknow
+475,25,35,Shia,High School,"Bengaluru,Delhi,Mumbai"
+476,30,40,Any,Masters,"Aligarh,Hyderabad,Patna"
+477,25,35,Sunni,High School,"Lucknow,Mumbai"
+478,22,31,Sunni,High School,"Delhi,Kolkata,Mumbai"
+479,21,24,Any,Masters,"Bhopal,Jaipur"
+480,27,37,Any,Bachelors,"Aligarh,Kolkata"
+481,21,27,Sunni,Bachelors,"Bengaluru,Delhi,Patna"
+482,23,33,Sunni,Bachelors,"Bengaluru,Chennai,Kolkata"
+483,21,22,Any,High School,Any
+484,21,27,Sunni,Bachelors,"Aligarh,Bengaluru,Srinagar"
+485,29,39,Sunni,High School,"Bengaluru,Delhi,Lucknow"
+486,23,32,Any,Bachelors,Any
+487,26,36,Sunni,Masters,"Bengaluru,Jaipur"
+488,21,29,Sunni,Masters,"Delhi,Kolkata,Lucknow"
+489,21,26,Shia,Masters,Any
+490,21,24,Any,Masters,Lucknow
+491,21,27,Any,Masters,Any
+492,27,36,Shia,High School,Jaipur
+493,22,32,Shia,Masters,"Delhi,Jaipur"
+494,23,33,Any,Bachelors,Lucknow
+495,24,34,Sunni,Masters,Any
+496,21,24,Sunni,High School,Srinagar
+497,21,27,Shia,Bachelors,Any
+498,21,24,Sunni,Masters,Any
+499,35,44,Any,Bachelors,"Kolkata,Patna"
+500,26,36,Sunni,Masters,"Jaipur,Mumbai"
+501,29,39,Any,Bachelors,Kolkata
+502,21,29,Shia,Masters,"Chennai,Lucknow,Patna"
+503,21,25,Any,Masters,Any
+504,23,33,Any,Masters,"Delhi,Hyderabad,Lucknow"
+505,23,33,Any,Masters,Bengaluru
+506,24,34,Shia,Bachelors,Any
+507,26,36,Sunni,Masters,Srinagar
+508,21,26,Prefer not to say,High School,"Lucknow,Patna"
+509,23,33,Any,Masters,"Bhopal,Jaipur,Lucknow"
+510,23,32,Sunni,Bachelors,"Kolkata,Lucknow"
+511,21,30,Sunni,Masters,Hyderabad
+512,21,30,Any,Masters,"Aligarh,Hyderabad,Patna"
+513,24,34,Sunni,High School,"Aligarh,Kolkata"
+514,21,24,Sunni,Bachelors,Any
+515,26,36,Any,Bachelors,"Bengaluru,Bhopal,Patna"
+516,21,29,Sunni,Bachelors,"Mumbai,Srinagar"
+517,21,27,Any,High School,Any
+518,21,23,Sunni,High School,"Bhopal,Kolkata"
+519,21,23,Prefer not to say,Masters,"Aligarh,Jaipur"
+520,28,38,Sunni,High School,Delhi
+521,21,29,Any,Bachelors,"Bengaluru,Delhi,Mumbai"
+522,35,44,Sunni,Masters,Delhi
+523,27,37,Sunni,High School,"Aligarh,Bhopal,Kolkata"
+524,21,24,Any,High School,Bhopal
+525,21,30,Any,High School,Any
+526,21,27,Any,Bachelors,Kolkata
+527,34,43,Any,High School,"Aligarh,Hyderabad,Patna"
+528,23,33,Prefer not to say,High School,"Hyderabad,Mumbai"
+529,30,40,Any,Masters,Any
+530,21,27,Any,Masters,Any
+531,30,40,Any,Masters,"Aligarh,Kolkata,Patna"
+532,21,25,Prefer not to say,High School,Any
+533,20,30,Sunni,Masters,Any
+534,21,28,Shia,Bachelors,Any
+535,23,33,Sunni,Bachelors,"Chennai,Srinagar"
+536,23,33,Sunni,Bachelors,Any
+537,21,24,Sunni,Bachelors,Any
+538,21,30,Shia,Masters,Any
+539,27,36,Any,Bachelors,"Bengaluru,Kolkata"
+540,23,33,Prefer not to say,Bachelors,Kolkata
+541,21,25,Sunni,Bachelors,"Bengaluru,Delhi"
+542,21,26,Any,Masters,"Bhopal,Kolkata,Patna"
+543,22,31,Sunni,High School,"Aligarh,Chennai"
+544,21,29,Other,High School,"Chennai,Lucknow,Srinagar"
+545,21,27,Any,Bachelors,Aligarh
+546,44,54,Prefer not to say,Masters,"Delhi,Kolkata"
+547,23,32,Sunni,High School,Jaipur
+548,35,44,Shia,High School,Hyderabad
+549,21,28,Prefer not to say,Masters,Patna
+550,21,28,Any,Bachelors,Any
+551,24,34,Sunni,Bachelors,Bengaluru
+552,26,36,Any,High School,"Jaipur,Mumbai"
+553,22,31,Sunni,Masters,"Aligarh,Bengaluru,Kolkata"
+554,21,25,Other,High School,"Kolkata,Lucknow,Srinagar"
+555,21,24,Sunni,Masters,"Bengaluru,Jaipur,Patna"
+556,24,33,Sunni,High School,Any
+557,21,26,Any,Masters,Any
+558,26,35,Any,High School,"Jaipur,Kolkata,Mumbai"
+559,21,28,Sunni,Bachelors,Mumbai
+560,24,34,Any,Bachelors,Any
+561,21,27,Sunni,High School,"Aligarh,Lucknow"
+562,23,33,Any,High School,"Aligarh,Delhi,Mumbai"
+563,28,37,Sunni,High School,"Chennai,Patna"
+564,21,27,Any,Masters,"Bengaluru,Jaipur"
+565,24,34,Any,Masters,Any
+566,21,26,Any,High School,Any
+567,26,36,Sunni,Bachelors,Any
+568,21,28,Any,Masters,"Chennai,Hyderabad,Srinagar"
+569,21,26,Any,Bachelors,"Bhopal,Srinagar"
+570,27,37,Any,High School,"Bengaluru,Mumbai"
+571,29,39,Sunni,Bachelors,Any
+572,21,26,Sunni,High School,Any
+573,32,42,Sunni,High School,"Aligarh,Chennai,Mumbai"
+574,25,34,Sunni,Bachelors,Any
+575,22,32,Any,Bachelors,"Chennai,Lucknow,Patna"
+576,21,25,Shia,Masters,"Hyderabad,Srinagar"
+577,37,47,Sunni,High School,"Aligarh,Patna"
+578,32,42,Sunni,Masters,Any
+579,21,26,Sunni,Masters,"Aligarh,Chennai,Delhi"
+580,23,33,Any,Masters,"Delhi,Mumbai"
+581,21,28,Any,Masters,Any
+582,35,44,Sunni,Bachelors,"Kolkata,Patna"
+583,21,31,Other,Masters,"Bhopal,Lucknow"
+584,26,36,Any,Masters,Srinagar
+585,23,33,Sunni,Masters,Any
+586,21,30,Shia,High School,Any
+587,23,32,Sunni,High School,"Aligarh,Bhopal,Srinagar"
+588,35,44,Sunni,Masters,Any
+589,32,42,Any,Bachelors,"Aligarh,Lucknow,Mumbai"
+590,22,31,Any,High School,"Hyderabad,Jaipur,Lucknow"
+591,29,39,Sunni,High School,Jaipur
+592,22,31,Other,Bachelors,Any
+593,30,40,Sunni,Bachelors,Any
+594,21,27,Sunni,High School,"Delhi,Jaipur,Srinagar"
+595,21,27,Sunni,Masters,Any
+596,23,33,Any,Masters,Delhi
+597,21,26,Sunni,Masters,Any
+598,21,26,Shia,Bachelors,"Bengaluru,Chennai,Mumbai"
+599,23,33,Other,Masters,Any
+600,30,40,Shia,Masters,"Delhi,Jaipur,Patna"
+601,21,30,Any,High School,"Aligarh,Hyderabad"
+602,20,30,Sunni,High School,"Lucknow,Mumbai,Srinagar"
+603,26,36,Any,High School,"Bengaluru,Jaipur"
+604,23,32,Other,Bachelors,Kolkata
+605,24,34,Any,High School,"Aligarh,Jaipur"
+606,30,40,Any,Masters,"Mumbai,Srinagar"
+607,21,27,Any,Bachelors,Any
+608,21,30,Sunni,Bachelors,Any
+609,25,35,Any,Bachelors,"Hyderabad,Mumbai"
+610,22,31,Any,Masters,Chennai
+611,21,29,Any,Bachelors,Any
+612,21,30,Sunni,Masters,"Aligarh,Bengaluru,Chennai"
+613,29,39,Any,Masters,Chennai
+614,21,28,Sunni,High School,"Delhi,Kolkata,Lucknow"
+615,21,22,Any,Masters,Any
+616,21,30,Any,Masters,"Delhi,Kolkata,Patna"
+617,23,32,Other,Bachelors,"Bengaluru,Patna,Srinagar"
+618,25,34,Sunni,Bachelors,"Aligarh,Bengaluru,Patna"
+619,22,32,Sunni,High School,"Bhopal,Hyderabad"
+620,23,32,Sunni,Bachelors,Any
+621,21,28,Any,High School,Any
+622,22,31,Sunni,Bachelors,"Kolkata,Mumbai"
+623,22,31,Sunni,Masters,"Aligarh,Kolkata"
+624,21,24,Any,High School,Any
+625,22,31,Any,Bachelors,Any
+626,21,26,Any,High School,"Delhi,Lucknow,Patna"
+627,31,41,Any,Masters,"Bengaluru,Hyderabad,Mumbai"
+628,30,40,Sunni,Bachelors,"Aligarh,Patna"
+629,25,35,Sunni,Bachelors,Any
+630,21,29,Sunni,Bachelors,Any
+631,21,25,Any,High School,"Bengaluru,Hyderabad"
+632,21,25,Sunni,Masters,"Delhi,Lucknow"
+633,21,27,Any,High School,Hyderabad
+634,21,27,Sunni,High School,"Delhi,Hyderabad"
+635,21,23,Any,Masters,"Bhopal,Lucknow"
+636,21,28,Any,Masters,"Hyderabad,Lucknow"
+637,21,28,Any,Bachelors,"Bhopal,Jaipur,Srinagar"
+638,21,30,Any,Masters,Srinagar
+639,22,32,Other,Masters,Any
+640,35,44,Sunni,High School,Any
+641,21,29,Shia,Masters,"Bengaluru,Kolkata,Patna"
+642,21,26,Sunni,Masters,"Kolkata,Patna,Srinagar"
+643,28,38,Any,High School,Any
+644,28,38,Sunni,Bachelors,Any
+645,22,31,Any,Masters,"Bengaluru,Lucknow,Srinagar"
+646,22,31,Sunni,Masters,Any
+647,37,47,Sunni,High School,"Kolkata,Lucknow"
+648,27,37,Sunni,Bachelors,"Bhopal,Jaipur,Mumbai"
+649,21,25,Any,Masters,Bengaluru
+650,21,28,Any,Bachelors,Any
+651,21,28,Sunni,Masters,Any
+652,25,35,Any,High School,"Lucknow,Mumbai"
+653,21,26,Prefer not to say,Masters,"Delhi,Lucknow,Srinagar"
+654,27,37,Any,Masters,Bengaluru
+655,25,35,Any,High School,"Aligarh,Bhopal,Delhi"
+656,25,35,Shia,Masters,Any
+657,25,34,Any,Bachelors,Any
+658,26,36,Shia,High School,Any
+659,21,29,Any,High School,"Jaipur,Patna"
+660,21,28,Any,Masters,"Jaipur,Mumbai,Patna"
+661,21,30,Sunni,Masters,Patna
+662,21,25,Sunni,High School,Any
+663,21,27,Any,High School,Any
+664,21,26,Any,Masters,Any
+665,30,40,Any,Bachelors,Any
+666,31,41,Sunni,High School,"Delhi,Mumbai"
+667,35,45,Sunni,Bachelors,"Kolkata,Srinagar"
+668,21,24,Sunni,Bachelors,Any
+669,21,29,Other,Bachelors,Any
+670,26,35,Other,High School,Any
+671,21,25,Any,High School,Mumbai
+672,31,40,Any,Bachelors,Any
+673,22,32,Any,Masters,"Aligarh,Mumbai"
+674,21,24,Sunni,Masters,Aligarh
+675,32,41,Any,Bachelors,Chennai
+676,24,33,Shia,Masters,Chennai
+677,21,23,Any,High School,"Hyderabad,Jaipur,Kolkata"
+678,21,28,Any,Masters,"Bengaluru,Chennai"
+679,21,25,Sunni,Bachelors,"Chennai,Lucknow"
+680,21,27,Shia,High School,"Aligarh,Kolkata"
+681,21,28,Sunni,Bachelors,"Kolkata,Lucknow"
+682,30,40,Any,Bachelors,Bhopal
+683,21,25,Any,Masters,"Chennai,Hyderabad"
+684,27,37,Any,Bachelors,Bhopal
+685,38,48,Other,High School,"Aligarh,Kolkata"
+686,21,29,Any,Masters,Any
+687,22,32,Any,Bachelors,"Hyderabad,Kolkata"
+688,26,36,Sunni,Masters,Any
+689,37,46,Any,Masters,"Chennai,Delhi,Lucknow"
+690,36,45,Any,High School,Mumbai
+691,21,31,Sunni,Masters,"Kolkata,Lucknow"
+692,32,42,Any,Masters,Mumbai
+693,31,41,Any,High School,"Bengaluru,Hyderabad,Kolkata"
+694,25,34,Sunni,Bachelors,"Aligarh,Bengaluru,Lucknow"
+695,30,40,Sunni,Masters,Aligarh
+696,25,34,Sunni,Bachelors,Any
+697,24,34,Any,Bachelors,"Chennai,Jaipur,Lucknow"
+698,21,27,Other,Masters,Any
+699,30,40,Any,Bachelors,Any
+700,21,28,Other,Bachelors,"Delhi,Jaipur,Patna"
+701,22,31,Sunni,Bachelors,"Bhopal,Hyderabad,Kolkata"
+702,32,42,Any,Masters,Any
+703,21,27,Sunni,Bachelors,Any
+704,36,45,Sunni,High School,"Delhi,Lucknow"
+705,25,35,Sunni,Bachelors,Srinagar
+706,27,37,Any,Masters,Any
+707,24,33,Shia,Masters,Any
+708,32,42,Sunni,High School,"Aligarh,Hyderabad,Patna"
+709,21,28,Sunni,Masters,Delhi
+710,22,31,Any,High School,Any
+711,39,49,Any,High School,Any
+712,24,33,Sunni,Bachelors,Patna
+713,24,33,Any,Bachelors,"Delhi,Jaipur,Mumbai"
+714,21,25,Sunni,High School,Any
+715,21,25,Any,Bachelors,"Bengaluru,Delhi,Mumbai"
+716,30,40,Sunni,Masters,Chennai
+717,21,30,Any,High School,Any
+718,21,31,Shia,High School,Any
+719,25,35,Sunni,Masters,"Delhi,Patna"
+720,22,31,Shia,Bachelors,Any
+721,25,35,Any,Masters,Bhopal
+722,21,29,Sunni,Masters,"Hyderabad,Patna"
+723,21,26,Any,High School,Any
+724,28,38,Sunni,High School,"Bhopal,Jaipur,Patna"
+725,25,35,Sunni,High School,"Bhopal,Delhi,Mumbai"
+726,28,38,Sunni,High School,"Aligarh,Chennai,Jaipur"
+727,21,27,Prefer not to say,Bachelors,Any
+728,21,22,Sunni,High School,"Aligarh,Delhi"
+729,21,30,Any,High School,Hyderabad
+730,29,39,Shia,Masters,"Lucknow,Srinagar"
+731,21,27,Any,High School,Any
+732,27,37,Any,Bachelors,Any
+733,21,29,Sunni,Bachelors,Delhi
+734,23,33,Sunni,High School,"Bhopal,Delhi,Mumbai"
+735,22,32,Other,Bachelors,"Aligarh,Mumbai"
+736,21,30,Any,High School,Srinagar
+737,29,38,Shia,Masters,Any
+738,27,37,Sunni,High School,"Chennai,Jaipur,Mumbai"
+739,34,43,Prefer not to say,Bachelors,Any
+740,21,29,Any,High School,Any
+741,30,40,Prefer not to say,High School,Any
+742,33,43,Any,Masters,"Jaipur,Srinagar"
+743,21,27,Any,High School,"Kolkata,Patna"
+744,24,34,Sunni,High School,Any
+745,22,31,Any,Bachelors,Lucknow
+746,21,27,Shia,High School,Any
+747,29,39,Any,High School,Hyderabad
+748,24,34,Any,High School,Any
+749,30,40,Sunni,Bachelors,"Bhopal,Chennai"
+750,21,22,Sunni,Masters,"Aligarh,Hyderabad,Srinagar"
+751,30,40,Any,Bachelors,Patna
+752,21,29,Sunni,Bachelors,Delhi
+753,22,32,Sunni,High School,"Chennai,Hyderabad"
+754,24,34,Other,Masters,"Bengaluru,Chennai,Patna"
+755,21,28,Any,Bachelors,"Bengaluru,Bhopal,Delhi"
+756,33,42,Sunni,Bachelors,Any
+757,29,39,Other,High School,"Bhopal,Kolkata"
+758,23,32,Any,High School,"Bhopal,Kolkata,Mumbai"
+759,21,28,Shia,Bachelors,Any
+760,21,22,Shia,Bachelors,Hyderabad
+761,24,34,Sunni,High School,"Bengaluru,Srinagar"
+762,21,23,Prefer not to say,Masters,"Bengaluru,Patna"
+763,21,30,Any,Masters,"Bengaluru,Delhi,Jaipur"
+764,21,31,Sunni,Bachelors,Hyderabad
+765,25,35,Any,High School,"Kolkata,Patna"
+766,21,25,Sunni,Bachelors,Any
+767,21,27,Any,Bachelors,"Aligarh,Lucknow"
+768,27,36,Sunni,Masters,Hyderabad
+769,23,33,Sunni,Bachelors,"Bhopal,Chennai,Kolkata"
+770,22,32,Other,High School,Any
+771,25,34,Any,Masters,"Delhi,Mumbai,Srinagar"
+772,25,34,Any,Bachelors,"Mumbai,Patna"
+773,21,26,Sunni,High School,"Delhi,Mumbai"
+774,26,36,Sunni,Masters,Kolkata
+775,31,40,Any,High School,"Hyderabad,Lucknow"
+776,23,33,Any,Bachelors,Srinagar
+777,24,34,Prefer not to say,High School,"Chennai,Delhi,Kolkata"
+778,24,33,Any,Bachelors,Any
+779,27,37,Any,Masters,Any
+780,37,47,Sunni,Bachelors,"Delhi,Jaipur,Mumbai"
+781,21,24,Any,Bachelors,Delhi
+782,21,28,Any,Bachelors,Jaipur
+783,21,25,Sunni,Masters,Bhopal
+784,28,38,Shia,Bachelors,Any
+785,21,26,Sunni,Bachelors,Any
+786,24,34,Any,High School,Any
+787,21,26,Shia,Masters,Any
+788,21,28,Any,High School,"Bengaluru,Mumbai"
+789,21,30,Any,Bachelors,"Hyderabad,Patna"
+790,29,39,Shia,Bachelors,Any
+791,21,28,Sunni,High School,"Aligarh,Lucknow,Srinagar"
+792,21,25,Other,Masters,"Aligarh,Hyderabad"
+793,21,27,Any,Bachelors,"Bengaluru,Delhi"
+794,21,27,Sunni,Bachelors,"Lucknow,Srinagar"
+795,21,25,Sunni,Bachelors,Any
+796,44,54,Any,Masters,Jaipur
+797,21,29,Any,Bachelors,"Aligarh,Patna,Srinagar"
+798,42,52,Any,High School,"Aligarh,Bengaluru,Delhi"
+799,21,27,Other,High School,"Jaipur,Patna"
+800,24,34,Any,Bachelors,"Bhopal,Srinagar"
+801,27,36,Sunni,Bachelors,Any
+802,36,45,Sunni,Bachelors,"Aligarh,Chennai,Hyderabad"
+803,22,32,Prefer not to say,High School,Any
+804,24,34,Sunni,Masters,"Aligarh,Delhi,Hyderabad"
+805,22,31,Any,Masters,Patna
+806,21,28,Other,Bachelors,"Chennai,Kolkata,Lucknow"
+807,27,37,Any,Bachelors,Mumbai
+808,24,34,Prefer not to say,High School,"Bhopal,Srinagar"
+809,31,41,Sunni,High School,Aligarh
+810,21,26,Any,High School,Bhopal
+811,21,29,Any,Bachelors,Any
+812,21,25,Any,Bachelors,"Hyderabad,Kolkata,Mumbai"
+813,23,32,Sunni,Masters,"Lucknow,Srinagar"
+814,29,39,Any,Masters,Any
+815,30,40,Sunni,Masters,Kolkata
+816,23,33,Other,Bachelors,"Delhi,Kolkata,Mumbai"
+817,22,31,Sunni,Masters,Any
+818,21,27,Sunni,Bachelors,Patna
+819,21,27,Sunni,High School,Mumbai
+820,22,32,Sunni,Masters,"Hyderabad,Patna,Srinagar"
+821,21,25,Any,Masters,"Bengaluru,Bhopal,Srinagar"
+822,21,30,Any,Masters,"Kolkata,Mumbai"
+823,24,34,Sunni,Bachelors,Any
+824,29,39,Any,Masters,"Chennai,Delhi,Kolkata"
+825,25,35,Sunni,Masters,"Hyderabad,Kolkata,Srinagar"
+826,21,28,Any,Bachelors,"Bengaluru,Patna"
+827,21,28,Sunni,High School,"Aligarh,Lucknow,Mumbai"
+828,21,28,Any,High School,"Jaipur,Srinagar"
+829,23,32,Any,Masters,"Hyderabad,Mumbai,Srinagar"
+830,23,33,Any,Bachelors,Aligarh
+831,22,32,Any,High School,Jaipur
+832,21,24,Sunni,High School,Hyderabad
+833,28,38,Any,High School,Any
+834,21,31,Shia,High School,"Lucknow,Patna,Srinagar"
+835,29,39,Other,Bachelors,"Bengaluru,Srinagar"
+836,21,26,Any,Masters,Delhi
+837,28,38,Shia,Bachelors,Any
+838,34,44,Shia,Bachelors,Any
+839,26,35,Any,Bachelors,"Kolkata,Mumbai,Srinagar"
+840,21,28,Any,High School,Any
+841,21,24,Any,Masters,Delhi
+842,29,39,Other,Bachelors,Any
+843,21,28,Any,Masters,Any
+844,44,54,Sunni,Masters,"Chennai,Delhi"
+845,30,40,Sunni,Masters,"Delhi,Srinagar"
+846,39,49,Sunni,Masters,Delhi
+847,21,27,Any,Bachelors,"Aligarh,Lucknow"
+848,23,33,Sunni,High School,Jaipur
+849,25,34,Sunni,Bachelors,"Delhi,Jaipur"
+850,21,30,Sunni,High School,"Bengaluru,Srinagar"
+851,23,32,Any,High School,"Aligarh,Delhi"
+852,33,43,Sunni,Bachelors,"Delhi,Hyderabad,Srinagar"
+853,24,33,Any,Masters,"Mumbai,Patna,Srinagar"
+854,29,38,Sunni,Masters,"Bhopal,Hyderabad,Mumbai"
+855,21,28,Sunni,High School,Any
+856,21,25,Any,Bachelors,"Bhopal,Hyderabad,Patna"
+857,31,40,Other,Masters,"Bhopal,Kolkata,Mumbai"
+858,24,34,Shia,Masters,Any
+859,21,24,Any,Masters,Any
+860,28,38,Sunni,High School,"Hyderabad,Jaipur"
+861,22,31,Sunni,Bachelors,Any
+862,23,32,Sunni,High School,Bhopal
+863,30,40,Sunni,Bachelors,Any
+864,21,29,Any,Masters,Any
+865,36,45,Shia,Bachelors,"Bhopal,Chennai,Jaipur"
+866,29,38,Sunni,Bachelors,Bhopal
+867,21,29,Sunni,Bachelors,"Chennai,Hyderabad,Kolkata"
+868,26,36,Any,High School,"Chennai,Mumbai"
+869,23,32,Any,Masters,"Kolkata,Mumbai"
+870,26,35,Any,Masters,Any
+871,21,24,Any,Bachelors,Bengaluru
+872,21,28,Sunni,Masters,Bengaluru
+873,21,29,Sunni,Bachelors,"Chennai,Jaipur,Srinagar"
+874,21,26,Any,Bachelors,"Bengaluru,Chennai,Kolkata"
+875,21,29,Shia,Bachelors,Srinagar
+876,33,43,Sunni,Bachelors,Any
+877,21,27,Any,High School,Any
+878,28,38,Sunni,Bachelors,"Delhi,Lucknow"
+879,33,42,Any,Masters,Any
+880,26,36,Shia,Bachelors,"Chennai,Kolkata"
+881,21,30,Shia,Bachelors,Srinagar
+882,26,36,Any,High School,"Lucknow,Mumbai"
+883,21,27,Shia,Masters,Any
+884,21,25,Any,Bachelors,Any
+885,23,32,Sunni,Masters,Any
+886,25,35,Sunni,High School,Any
+887,24,34,Sunni,Masters,Chennai
+888,27,37,Any,Bachelors,Patna
+889,21,29,Any,High School,"Aligarh,Bengaluru,Bhopal"
+890,21,23,Any,Bachelors,Any
+891,21,27,Sunni,High School,Any
+892,21,29,Sunni,Bachelors,Jaipur
+893,37,47,Any,Masters,"Kolkata,Lucknow,Srinagar"
+894,21,27,Sunni,High School,Any
+895,21,27,Any,High School,Lucknow
+896,23,32,Sunni,High School,Any
+897,22,31,Sunni,Bachelors,Any
+898,25,35,Other,Bachelors,"Bhopal,Patna,Srinagar"
+899,23,33,Prefer not to say,Bachelors,"Bhopal,Jaipur,Patna"
+900,33,42,Any,Masters,"Bhopal,Jaipur,Mumbai"
+901,27,37,Shia,Masters,"Bengaluru,Chennai,Mumbai"
+902,29,39,Sunni,Masters,Any
+903,24,34,Sunni,Masters,Any
+904,23,33,Other,Masters,"Aligarh,Hyderabad,Lucknow"
+905,21,30,Sunni,Masters,Any
+906,21,27,Any,High School,"Bengaluru,Patna,Srinagar"
+907,21,25,Sunni,High School,Any
+908,21,27,Any,Bachelors,Any
+909,37,47,Sunni,Bachelors,Aligarh
+910,22,32,Any,High School,Any
+911,22,31,Sunni,High School,"Kolkata,Patna"
+912,31,40,Other,Masters,"Chennai,Mumbai,Patna"
+913,21,28,Sunni,Masters,"Hyderabad,Jaipur,Patna"
+914,21,26,Sunni,Bachelors,"Kolkata,Lucknow"
+915,21,27,Sunni,Masters,"Hyderabad,Mumbai"
+916,21,29,Any,Masters,Any
+917,21,28,Any,Bachelors,Kolkata
+918,21,23,Sunni,High School,Bengaluru
+919,23,33,Sunni,Masters,Jaipur
+920,21,29,Sunni,Masters,Any
+921,21,29,Any,High School,"Lucknow,Mumbai"
+922,28,38,Any,High School,Any
+923,24,33,Other,High School,"Jaipur,Mumbai"
+924,21,31,Shia,Masters,"Hyderabad,Lucknow"
+925,24,34,Any,Masters,Lucknow
+926,21,31,Sunni,Bachelors,Bengaluru
+927,21,26,Any,High School,Any
+928,23,32,Sunni,Masters,Any
+929,21,24,Any,High School,Any
+930,23,33,Sunni,Masters,Any
+931,21,27,Any,High School,Any
+932,21,31,Sunni,Bachelors,"Bhopal,Delhi"
+933,25,35,Any,High School,Hyderabad
+934,21,27,Sunni,Masters,Any
+935,21,28,Any,Bachelors,"Aligarh,Jaipur,Kolkata"
+936,21,24,Any,High School,Any
+937,25,35,Sunni,Bachelors,Any
+938,31,41,Sunni,Bachelors,"Hyderabad,Lucknow"
+939,21,26,Sunni,Bachelors,"Bhopal,Mumbai"
+940,24,34,Sunni,High School,Any
+941,22,31,Any,Masters,"Bhopal,Mumbai,Patna"
+942,25,34,Any,High School,"Bhopal,Delhi,Jaipur"
+943,21,27,Any,High School,"Bengaluru,Chennai,Hyderabad"
+944,30,40,Sunni,High School,"Delhi,Lucknow"
+945,37,47,Sunni,Bachelors,"Bhopal,Delhi,Srinagar"
+946,24,34,Sunni,High School,"Bengaluru,Patna"
+947,21,27,Shia,Masters,"Bengaluru,Chennai,Srinagar"
+948,30,40,Sunni,High School,"Lucknow,Patna"
+949,21,25,Sunni,Bachelors,"Aligarh,Chennai,Hyderabad"
+950,25,35,Other,Bachelors,Jaipur
+951,21,28,Sunni,Bachelors,"Bhopal,Kolkata,Srinagar"
+952,21,28,Any,Masters,"Aligarh,Chennai,Kolkata"
+953,21,29,Any,Masters,"Bengaluru,Chennai,Lucknow"
+954,25,34,Any,Bachelors,Hyderabad
+955,26,36,Any,Bachelors,"Hyderabad,Mumbai"
+956,21,24,Other,Masters,Any
+957,23,32,Sunni,Masters,"Bengaluru,Jaipur,Kolkata"
+958,24,34,Any,Masters,Mumbai
+959,31,41,Any,Masters,"Chennai,Hyderabad"
+960,20,30,Any,Masters,"Chennai,Delhi"
+961,21,29,Sunni,High School,"Bhopal,Delhi,Srinagar"
+962,21,27,Sunni,Masters,"Kolkata,Srinagar"
+963,21,29,Prefer not to say,Masters,"Bengaluru,Mumbai"
+964,22,31,Shia,High School,"Aligarh,Chennai,Patna"
+965,21,25,Any,High School,Any
+966,26,36,Sunni,Masters,Any
+967,21,25,Other,High School,"Patna,Srinagar"
+968,22,31,Any,Masters,Bhopal
+969,21,29,Any,High School,"Chennai,Kolkata,Mumbai"
+970,24,33,Other,Masters,Bhopal
+971,21,28,Sunni,Bachelors,"Jaipur,Lucknow,Patna"
+972,21,24,Sunni,Masters,"Hyderabad,Kolkata,Mumbai"
+973,23,32,Any,High School,Any
+974,21,25,Other,Masters,Any
+975,21,29,Any,High School,Any
+976,26,35,Sunni,Bachelors,Chennai
+977,22,31,Sunni,Bachelors,Delhi
+978,22,31,Prefer not to say,Masters,Any
+979,21,24,Sunni,High School,Any
+980,21,26,Other,Bachelors,Kolkata
+981,33,42,Sunni,High School,"Patna,Srinagar"
+982,21,30,Any,Masters,"Bhopal,Lucknow"
+983,27,37,Any,Masters,"Chennai,Hyderabad"
+984,24,34,Sunni,Masters,Bengaluru
+985,21,22,Any,Masters,Chennai
+986,21,28,Shia,Bachelors,"Mumbai,Patna,Srinagar"
+987,23,32,Any,Bachelors,Patna
+988,21,25,Any,Bachelors,Any
+989,26,36,Sunni,Bachelors,"Bhopal,Kolkata,Srinagar"
+990,21,30,Sunni,Masters,Any
+991,27,36,Shia,Masters,"Bengaluru,Lucknow,Srinagar"
+992,28,38,Other,Masters,Any
+993,28,38,Other,Masters,"Chennai,Jaipur"
+994,21,23,Prefer not to say,Bachelors,"Bengaluru,Jaipur,Kolkata"
+995,21,29,Any,Bachelors,Any
+996,24,34,Sunni,Bachelors,"Aligarh,Patna"
+997,24,33,Sunni,Bachelors,"Kolkata,Lucknow"
+998,21,28,Sunni,Masters,Any
+999,21,26,Any,High School,"Aligarh,Bhopal,Jaipur"
+1000,32,41,Other,High School,Any
+1001,22,31,Sunni,High School,"Aligarh,Lucknow"
+1002,21,28,Sunni,Bachelors,Any
+1003,39,49,Sunni,Masters,"Chennai,Patna"
+1004,21,30,Shia,High School,"Delhi,Lucknow,Srinagar"
+1005,21,28,Any,Masters,Srinagar
+1006,24,34,Sunni,High School,Chennai
+1007,23,33,Any,High School,Bhopal
+1008,21,23,Sunni,Bachelors,"Aligarh,Patna"
+1009,21,27,Sunni,Masters,"Lucknow,Patna"
+1010,21,31,Any,Bachelors,Any
+1011,26,36,Any,High School,"Hyderabad,Lucknow"
+1012,29,39,Sunni,High School,"Bengaluru,Jaipur,Patna"
+1013,25,34,Sunni,Bachelors,"Kolkata,Mumbai,Patna"
+1014,21,27,Sunni,High School,Lucknow
+1015,21,30,Any,High School,"Chennai,Patna"
+1016,23,33,Prefer not to say,Bachelors,"Aligarh,Jaipur"
+1017,21,27,Shia,High School,"Chennai,Delhi,Mumbai"
+1018,21,30,Sunni,High School,Jaipur
+1019,23,32,Sunni,Masters,"Bengaluru,Delhi"
+1020,25,35,Prefer not to say,High School,Bhopal
+1021,21,28,Any,Bachelors,"Lucknow,Patna,Srinagar"
+1022,28,37,Sunni,Masters,Any
+1023,21,30,Sunni,High School,"Hyderabad,Srinagar"
+1024,21,24,Any,High School,"Bengaluru,Hyderabad,Srinagar"
+1025,37,46,Any,High School,"Delhi,Kolkata"
+1026,29,38,Any,High School,Aligarh
+1027,21,27,Sunni,Masters,"Bengaluru,Delhi"
+1028,21,25,Any,Masters,"Chennai,Kolkata,Patna"
+1029,22,31,Sunni,High School,"Bengaluru,Delhi"
+1030,21,26,Sunni,Masters,Any
+1031,21,29,Sunni,Bachelors,"Delhi,Jaipur"
+1032,21,27,Sunni,Bachelors,"Bengaluru,Srinagar"
+1033,22,32,Any,Masters,Lucknow
+1034,27,37,Sunni,Bachelors,"Chennai,Delhi"
+1035,21,31,Any,High School,"Kolkata,Mumbai"
+1036,21,31,Any,Bachelors,"Aligarh,Kolkata,Lucknow"
+1037,21,25,Shia,Bachelors,"Chennai,Delhi"
+1038,23,33,Sunni,Bachelors,"Delhi,Patna"
+1039,21,30,Sunni,Masters,"Bhopal,Chennai,Kolkata"
+1040,31,40,Sunni,Masters,"Lucknow,Patna"
+1041,22,32,Any,Masters,Any
+1042,21,27,Any,High School,Aligarh
+1043,21,25,Shia,High School,"Aligarh,Chennai,Delhi"
+1044,23,32,Any,Bachelors,"Bengaluru,Bhopal"
+1045,32,42,Any,High School,Any
+1046,28,37,Sunni,Masters,"Chennai,Delhi,Hyderabad"
+1047,22,31,Sunni,Masters,"Bhopal,Lucknow"
+1048,27,37,Any,Masters,Lucknow
+1049,25,35,Any,Masters,Any
+1050,23,33,Any,High School,Any
+1051,23,33,Any,High School,Any
+1052,21,23,Sunni,Masters,"Chennai,Kolkata"
+1053,21,25,Sunni,High School,"Delhi,Jaipur,Kolkata"
+1054,21,31,Sunni,Masters,Any
+1055,27,37,Sunni,High School,Any
+1056,22,31,Shia,Masters,Any
+1057,21,24,Any,Masters,"Bhopal,Srinagar"
+1058,21,27,Sunni,Masters,Any
+1059,25,35,Prefer not to say,Masters,Any
+1060,27,36,Sunni,Masters,Any
+1061,23,32,Any,Bachelors,Bengaluru
+1062,25,35,Any,Bachelors,"Jaipur,Kolkata,Patna"
+1063,21,29,Sunni,Bachelors,Any
+1064,25,35,Sunni,Bachelors,"Aligarh,Chennai"
+1065,21,29,Any,Masters,"Jaipur,Kolkata"
+1066,21,28,Sunni,Bachelors,Bhopal
+1067,21,27,Sunni,Masters,"Aligarh,Patna"
+1068,30,40,Any,Bachelors,Any
+1069,22,32,Sunni,Masters,Lucknow
+1070,25,35,Any,Bachelors,"Aligarh,Hyderabad"
+1071,20,30,Any,Masters,"Jaipur,Patna"
+1072,26,36,Other,High School,"Chennai,Hyderabad"
+1073,26,36,Sunni,High School,"Delhi,Kolkata,Srinagar"
+1074,23,32,Any,High School,"Kolkata,Lucknow,Mumbai"
+1075,24,34,Sunni,High School,Mumbai
+1076,29,39,Any,Bachelors,Any
+1077,27,37,Shia,High School,Any
+1078,21,24,Any,Masters,Any
+1079,21,24,Shia,Bachelors,"Hyderabad,Srinagar"
+1080,21,24,Sunni,Bachelors,"Jaipur,Srinagar"
+1081,21,22,Shia,Bachelors,Lucknow
+1082,21,27,Sunni,Bachelors,"Bengaluru,Bhopal,Delhi"
+1083,28,38,Any,Bachelors,Bhopal
+1084,23,33,Any,Bachelors,"Bhopal,Chennai,Mumbai"
+1085,27,37,Any,High School,Any
+1086,22,31,Any,Masters,"Hyderabad,Kolkata"
+1087,24,33,Any,Masters,Any
+1088,21,29,Any,High School,"Bengaluru,Hyderabad,Mumbai"
+1089,21,28,Shia,High School,"Bengaluru,Lucknow"
+1090,30,40,Shia,Masters,"Jaipur,Mumbai"
+1091,21,27,Any,Bachelors,"Mumbai,Patna"
+1092,21,28,Sunni,Bachelors,Any
+1093,21,24,Sunni,Bachelors,Mumbai
+1094,28,38,Any,Masters,Any
+1095,21,24,Other,High School,Kolkata
+1096,21,29,Any,Masters,"Bengaluru,Srinagar"
+1097,25,35,Other,High School,"Jaipur,Mumbai"
+1098,22,31,Any,Bachelors,Bhopal
+1099,29,39,Sunni,Bachelors,Jaipur
+1100,22,31,Sunni,Masters,"Bengaluru,Kolkata,Mumbai"
+1101,30,39,Sunni,High School,"Lucknow,Srinagar"
+1102,21,24,Any,Bachelors,Bhopal
+1103,29,39,Any,Bachelors,Srinagar
+1104,23,33,Sunni,Bachelors,"Chennai,Mumbai,Srinagar"
+1105,21,31,Sunni,Masters,Any
+1106,21,25,Sunni,Bachelors,Any
+1107,21,28,Any,High School,"Aligarh,Bengaluru"
+1108,21,26,Sunni,Bachelors,Chennai
+1109,21,29,Sunni,Masters,"Jaipur,Mumbai,Patna"
+1110,29,39,Any,High School,"Bhopal,Jaipur,Lucknow"
+1111,27,37,Shia,Bachelors,"Hyderabad,Lucknow"
+1112,24,34,Any,Bachelors,Bhopal
+1113,30,39,Sunni,High School,Any
+1114,21,28,Sunni,Bachelors,"Delhi,Kolkata"
+1115,21,27,Sunni,High School,"Kolkata,Lucknow"
+1116,21,29,Any,Bachelors,Any
+1117,27,37,Sunni,High School,"Bengaluru,Bhopal,Lucknow"
+1118,33,42,Sunni,High School,"Jaipur,Kolkata,Patna"
+1119,22,32,Sunni,Masters,Any
+1120,21,25,Any,High School,Any
+1121,21,27,Sunni,High School,Bengaluru
+1122,32,41,Sunni,Masters,"Bengaluru,Mumbai"
+1123,24,34,Any,Bachelors,Aligarh
+1124,21,25,Prefer not to say,Bachelors,Any
+1125,33,43,Any,Bachelors,Chennai
+1126,24,34,Any,Masters,"Hyderabad,Jaipur,Patna"
+1127,21,30,Other,High School,"Bhopal,Patna"
+1128,31,41,Any,Masters,"Bengaluru,Kolkata,Patna"
+1129,21,23,Any,Bachelors,Kolkata
+1130,28,38,Sunni,Masters,"Hyderabad,Kolkata"
+1131,23,32,Any,High School,"Chennai,Kolkata"
+1132,23,33,Sunni,High School,"Jaipur,Kolkata,Patna"
+1133,22,31,Sunni,Bachelors,"Bhopal,Chennai"
+1134,21,26,Any,High School,Aligarh
+1135,35,44,Any,Masters,Any
+1136,21,23,Shia,Masters,Any
+1137,35,44,Any,Masters,Mumbai
+1138,21,25,Sunni,Bachelors,Any
+1139,34,43,Sunni,Masters,"Bengaluru,Patna"
+1140,27,37,Shia,High School,"Chennai,Lucknow,Srinagar"
+1141,30,40,Any,High School,Any
+1142,21,27,Sunni,Bachelors,"Hyderabad,Kolkata,Lucknow"
+1143,21,24,Sunni,Bachelors,Jaipur
+1144,21,25,Sunni,Masters,Chennai
+1145,24,34,Shia,Bachelors,"Aligarh,Bengaluru,Hyderabad"
+1146,25,35,Any,High School,"Chennai,Mumbai"
+1147,31,41,Sunni,High School,Delhi
+1148,21,25,Any,Masters,Aligarh
+1149,22,31,Any,Bachelors,"Hyderabad,Mumbai"
+1150,32,41,Any,Masters,Hyderabad
+1151,21,29,Shia,High School,"Bengaluru,Mumbai"
+1152,21,25,Any,Masters,Any
+1153,21,29,Any,Bachelors,Mumbai
+1154,37,46,Shia,Bachelors,"Kolkata,Mumbai"
+1155,21,27,Sunni,Bachelors,"Bhopal,Chennai,Srinagar"
+1156,27,37,Other,Masters,Mumbai
+1157,21,26,Other,Bachelors,"Hyderabad,Lucknow,Mumbai"
+1158,31,41,Sunni,High School,Aligarh
+1159,25,34,Sunni,High School,"Chennai,Patna"
+1160,27,36,Sunni,High School,"Aligarh,Patna"
+1161,24,33,Sunni,High School,"Bhopal,Mumbai"
+1162,27,37,Any,Bachelors,"Kolkata,Mumbai,Srinagar"
+1163,22,32,Sunni,High School,"Aligarh,Bhopal,Chennai"
+1164,22,32,Sunni,Bachelors,Hyderabad
+1165,22,31,Sunni,High School,Jaipur
+1166,27,37,Shia,High School,"Aligarh,Chennai,Srinagar"
+1167,21,24,Sunni,Bachelors,"Bhopal,Delhi"
+1168,21,29,Shia,High School,"Chennai,Jaipur,Patna"
+1169,33,42,Sunni,High School,Any
+1170,22,31,Sunni,Masters,"Bengaluru,Patna,Srinagar"
+1171,25,34,Any,Masters,"Hyderabad,Mumbai"
+1172,21,28,Any,High School,"Aligarh,Delhi,Jaipur"
+1173,21,27,Sunni,Bachelors,Bhopal
+1174,27,37,Any,High School,"Bhopal,Lucknow"
+1175,21,27,Sunni,Masters,"Delhi,Hyderabad"
+1176,21,24,Sunni,Masters,"Chennai,Srinagar"
+1177,25,35,Any,Bachelors,"Aligarh,Bengaluru,Lucknow"
+1178,21,29,Sunni,Masters,Delhi
+1179,24,34,Sunni,Bachelors,Any
+1180,32,42,Sunni,Masters,Patna
+1181,21,28,Any,Bachelors,"Aligarh,Lucknow"
+1182,21,23,Any,High School,"Jaipur,Mumbai"
+1183,24,34,Sunni,High School,"Bhopal,Hyderabad,Kolkata"
+1184,26,36,Sunni,Masters,"Kolkata,Patna,Srinagar"
+1185,21,26,Sunni,Bachelors,Kolkata
+1186,21,27,Any,Masters,Lucknow
+1187,23,33,Any,Masters,Any
+1188,21,30,Any,High School,Any
+1189,21,28,Sunni,High School,"Delhi,Mumbai,Srinagar"
+1190,22,31,Any,High School,Any
+1191,21,30,Any,Bachelors,Any
+1192,21,25,Sunni,Masters,"Delhi,Kolkata,Mumbai"
+1193,21,27,Sunni,High School,Any
+1194,20,30,Any,Bachelors,"Hyderabad,Mumbai"
+1195,23,33,Sunni,Masters,Kolkata
+1196,28,38,Any,Masters,Any
+1197,24,33,Any,High School,"Bengaluru,Delhi"
+1198,28,38,Any,Masters,Bhopal
+1199,24,34,Sunni,Masters,Any
+1200,21,31,Sunni,High School,"Chennai,Kolkata,Srinagar"
+1201,23,33,Any,High School,"Hyderabad,Srinagar"
+1202,24,34,Any,Bachelors,"Hyderabad,Jaipur,Mumbai"
+1203,21,27,Any,Bachelors,"Hyderabad,Srinagar"
+1204,24,34,Sunni,Bachelors,Patna
+1205,24,33,Sunni,High School,Patna
+1206,24,33,Any,High School,Jaipur
+1207,27,36,Any,Bachelors,"Jaipur,Lucknow"
+1208,26,36,Prefer not to say,Bachelors,"Jaipur,Kolkata,Lucknow"
+1209,25,35,Sunni,High School,"Bengaluru,Delhi"
+1210,32,42,Prefer not to say,Bachelors,"Kolkata,Srinagar"
+1211,21,30,Any,Masters,Bhopal
+1212,23,33,Any,High School,Lucknow
+1213,25,35,Sunni,Masters,Any
+1214,27,37,Sunni,High School,"Bengaluru,Bhopal"
+1215,24,34,Shia,Bachelors,Mumbai
+1216,21,29,Sunni,Masters,Any
+1217,21,29,Sunni,Bachelors,"Bengaluru,Hyderabad,Jaipur"
+1218,21,27,Any,Masters,"Bengaluru,Lucknow"
+1219,27,37,Other,Bachelors,Jaipur
+1220,21,29,Any,Bachelors,Lucknow
+1221,21,28,Any,Bachelors,Aligarh
+1222,24,33,Other,Masters,"Bengaluru,Chennai"
+1223,22,32,Sunni,Bachelors,Aligarh
+1224,21,23,Any,Bachelors,"Hyderabad,Jaipur,Lucknow"
+1225,23,33,Any,High School,Any
+1226,21,28,Any,Bachelors,"Bhopal,Jaipur,Patna"
+1227,37,47,Sunni,Masters,"Bhopal,Kolkata"
+1228,23,32,Any,Masters,"Hyderabad,Kolkata,Lucknow"
+1229,22,31,Prefer not to say,Bachelors,"Bengaluru,Chennai,Delhi"
+1230,21,27,Sunni,Masters,Aligarh
+1231,21,30,Any,Bachelors,Any
+1232,21,27,Sunni,High School,"Bhopal,Delhi,Lucknow"
+1233,30,40,Sunni,High School,Any
+1234,24,34,Any,High School,"Bengaluru,Mumbai,Patna"
+1235,29,38,Sunni,Masters,Chennai
+1236,21,26,Sunni,High School,Any
+1237,29,38,Sunni,Bachelors,Chennai
+1238,28,37,Sunni,Masters,"Chennai,Lucknow"
+1239,21,27,Sunni,Bachelors,"Chennai,Patna"
+1240,26,36,Shia,Masters,"Chennai,Hyderabad,Patna"
+1241,39,49,Any,High School,Aligarh
+1242,24,34,Shia,Bachelors,"Aligarh,Hyderabad,Srinagar"
+1243,21,26,Any,Masters,"Bhopal,Chennai,Jaipur"
+1244,21,30,Other,Masters,"Bengaluru,Patna"
+1245,28,38,Any,High School,Any
+1246,36,45,Any,Bachelors,Any
+1247,23,32,Any,Bachelors,Chennai
+1248,21,24,Other,Bachelors,Hyderabad
+1249,26,36,Sunni,High School,"Bengaluru,Chennai,Mumbai"
+1250,22,32,Sunni,Bachelors,"Chennai,Mumbai"
+1251,26,36,Sunni,Bachelors,"Hyderabad,Kolkata,Lucknow"
+1252,43,53,Sunni,High School,Srinagar
+1253,27,37,Any,Masters,Any
+1254,21,29,Sunni,Bachelors,Any
+1255,28,37,Any,High School,"Aligarh,Jaipur,Mumbai"
+1256,21,30,Any,High School,Any
+1257,27,37,Sunni,Masters,Any
+1258,21,25,Sunni,Masters,Aligarh
+1259,24,33,Any,High School,Bhopal
+1260,21,26,Any,Masters,Lucknow
+1261,21,24,Sunni,Masters,Patna
+1262,21,29,Any,High School,Aligarh
+1263,23,33,Shia,High School,"Bhopal,Jaipur,Patna"
+1264,21,28,Other,Bachelors,"Bhopal,Hyderabad,Patna"
+1265,21,26,Any,High School,"Hyderabad,Srinagar"
+1266,25,35,Sunni,Bachelors,Any
+1267,21,27,Any,Masters,"Kolkata,Mumbai"
+1268,29,39,Any,High School,Any
+1269,26,36,Any,High School,Delhi
+1270,22,31,Sunni,Masters,"Bengaluru,Jaipur,Srinagar"
+1271,28,38,Any,Masters,"Bhopal,Hyderabad,Srinagar"
+1272,21,24,Any,High School,Lucknow
+1273,22,31,Any,High School,Any
+1274,21,30,Sunni,High School,Any
+1275,21,29,Sunni,Bachelors,Aligarh
+1276,21,27,Any,Bachelors,Any
+1277,28,38,Sunni,High School,Any
+1278,21,26,Sunni,Masters,"Hyderabad,Lucknow"
+1279,21,26,Sunni,Bachelors,Any
+1280,27,37,Any,Bachelors,"Bengaluru,Chennai,Mumbai"
+1281,25,34,Sunni,Masters,Any
+1282,21,27,Sunni,High School,"Jaipur,Mumbai"
+1283,21,25,Any,Masters,"Bhopal,Lucknow,Mumbai"
+1284,21,28,Any,Bachelors,"Bengaluru,Jaipur,Mumbai"
+1285,24,34,Sunni,Masters,Hyderabad
+1286,36,46,Any,Masters,"Kolkata,Mumbai"
+1287,25,34,Any,Bachelors,"Chennai,Mumbai"
+1288,22,32,Any,Bachelors,Any
+1289,25,35,Sunni,High School,Any
+1290,29,39,Sunni,High School,Any
+1291,21,27,Sunni,Masters,Delhi
+1292,24,34,Shia,Masters,"Jaipur,Srinagar"
+1293,21,29,Any,High School,Any
+1294,30,39,Any,High School,Mumbai
+1295,29,39,Sunni,Masters,Any
+1296,25,35,Any,Bachelors,Any
+1297,35,44,Any,High School,Any
+1298,29,38,Any,High School,"Bhopal,Chennai"
+1299,29,39,Any,Masters,Any
+1300,25,35,Sunni,Masters,Any
+1301,21,29,Any,Masters,Srinagar
+1302,28,38,Sunni,Bachelors,Any
+1303,21,29,Sunni,Masters,Any
+1304,21,28,Sunni,Masters,"Delhi,Lucknow"
+1305,35,45,Any,High School,"Hyderabad,Lucknow,Mumbai"
+1306,24,34,Sunni,Bachelors,Any
+1307,30,40,Sunni,Bachelors,Bengaluru
+1308,21,26,Sunni,High School,Any
+1309,26,36,Sunni,High School,Any
+1310,25,35,Sunni,Masters,Any
+1311,21,24,Any,High School,"Aligarh,Bengaluru,Lucknow"
+1312,27,37,Any,High School,"Jaipur,Kolkata,Mumbai"
+1313,21,25,Any,High School,"Aligarh,Chennai"
+1314,25,35,Sunni,Bachelors,Chennai
+1315,24,34,Sunni,Masters,"Bengaluru,Chennai"
+1316,21,26,Sunni,Masters,Jaipur
+1317,21,30,Any,Masters,Any
+1318,24,34,Any,Bachelors,Srinagar
+1319,27,37,Any,Bachelors,"Bengaluru,Hyderabad,Lucknow"
+1320,21,24,Other,Bachelors,"Bhopal,Hyderabad"
+1321,21,30,Other,Masters,"Hyderabad,Mumbai"
+1322,23,32,Sunni,High School,Jaipur
+1323,23,32,Sunni,Bachelors,"Chennai,Delhi,Mumbai"
+1324,21,28,Sunni,High School,Any
+1325,21,27,Any,Bachelors,Patna
+1326,24,33,Sunni,High School,Any
+1327,26,36,Sunni,Bachelors,Any
+1328,24,34,Shia,Masters,Any
+1329,24,34,Any,Bachelors,"Bengaluru,Bhopal,Delhi"
+1330,29,39,Shia,Bachelors,Hyderabad
+1331,22,32,Any,Bachelors,"Bengaluru,Chennai"
+1332,21,25,Any,Bachelors,Any
+1333,21,29,Sunni,High School,Mumbai
+1334,21,24,Other,Masters,"Delhi,Mumbai"
+1335,25,35,Sunni,High School,Any
+1336,24,34,Sunni,Bachelors,"Bhopal,Chennai,Patna"
+1337,21,29,Shia,High School,"Aligarh,Hyderabad,Kolkata"
+1338,21,28,Any,Masters,Any
+1339,21,26,Any,Masters,"Bengaluru,Jaipur,Srinagar"
+1340,21,25,Other,High School,Any
+1341,23,33,Sunni,High School,"Bengaluru,Lucknow"
+1342,21,27,Any,High School,"Bhopal,Kolkata,Srinagar"
+1343,33,43,Other,High School,Any
+1344,21,24,Sunni,Bachelors,"Delhi,Lucknow,Patna"
+1345,21,24,Shia,Bachelors,Bhopal
+1346,21,23,Sunni,High School,"Aligarh,Jaipur"
+1347,25,35,Sunni,Masters,"Delhi,Kolkata"
+1348,21,27,Sunni,Masters,Any
+1349,22,31,Sunni,High School,"Delhi,Kolkata,Patna"
+1350,21,29,Sunni,Bachelors,"Aligarh,Patna"
+1351,21,26,Sunni,Masters,Any
+1352,21,25,Shia,Masters,Any
+1353,21,30,Any,Masters,Any
+1354,29,39,Sunni,Bachelors,Any
+1355,21,27,Sunni,Bachelors,"Aligarh,Bhopal,Mumbai"
+1356,23,33,Sunni,Masters,Any
+1357,21,27,Any,Bachelors,Any
+1358,21,30,Shia,High School,"Bhopal,Patna,Srinagar"
+1359,21,26,Any,High School,Any
+1360,21,25,Any,Masters,Any
+1361,21,26,Any,Bachelors,"Aligarh,Kolkata"
+1362,34,44,Sunni,Masters,Any
+1363,24,33,Prefer not to say,Masters,Any
+1364,29,39,Any,Masters,Mumbai
+1365,24,34,Any,Bachelors,Any
+1366,26,36,Sunni,High School,Bengaluru
+1367,21,27,Sunni,Bachelors,"Jaipur,Patna"
+1368,29,39,Sunni,Bachelors,"Hyderabad,Mumbai,Srinagar"
+1369,43,53,Sunni,Bachelors,"Bengaluru,Hyderabad"
+1370,23,33,Sunni,High School,Kolkata
+1371,21,27,Any,Masters,"Bhopal,Hyderabad,Lucknow"
+1372,23,32,Any,Bachelors,Lucknow
+1373,22,32,Sunni,High School,Any
+1374,21,29,Any,Masters,"Delhi,Kolkata,Patna"
+1375,21,27,Sunni,Masters,"Bhopal,Mumbai"
+1376,21,31,Sunni,High School,Bhopal
+1377,21,30,Sunni,Masters,Aligarh
+1378,24,34,Any,Bachelors,"Bengaluru,Jaipur,Srinagar"
+1379,32,42,Shia,High School,Patna
+1380,21,23,Sunni,Bachelors,Lucknow
+1381,24,34,Sunni,Bachelors,Kolkata
+1382,26,35,Other,High School,Aligarh
+1383,21,23,Other,Masters,Any
+1384,21,27,Any,High School,Any
+1385,21,30,Any,Bachelors,"Bengaluru,Mumbai"
+1386,22,31,Sunni,High School,Kolkata
+1387,29,38,Any,High School,"Aligarh,Hyderabad"
+1388,32,41,Any,Masters,"Hyderabad,Patna,Srinagar"
+1389,21,23,Any,Masters,Bhopal
+1390,28,38,Other,High School,Any
+1391,21,27,Prefer not to say,High School,"Bhopal,Delhi,Hyderabad"
+1392,22,31,Any,High School,"Bengaluru,Patna,Srinagar"
+1393,21,28,Other,Bachelors,"Bhopal,Kolkata"
+1394,24,34,Sunni,Bachelors,"Aligarh,Chennai"
+1395,21,26,Any,Bachelors,Bengaluru
+1396,21,24,Sunni,Masters,Chennai
+1397,26,36,Sunni,Bachelors,Any
+1398,21,30,Sunni,Masters,Any
+1399,31,41,Any,Masters,"Bengaluru,Chennai,Kolkata"
+1400,25,35,Shia,Bachelors,"Bhopal,Hyderabad"
+1401,21,27,Sunni,Bachelors,"Hyderabad,Jaipur,Patna"
+1402,22,31,Shia,Bachelors,Any
+1403,25,35,Any,Masters,Kolkata
+1404,21,29,Sunni,High School,"Bengaluru,Chennai,Lucknow"
+1405,27,37,Sunni,Bachelors,Any
+1406,21,29,Sunni,Masters,Patna
+1407,29,39,Any,Masters,Lucknow
+1408,21,27,Sunni,Masters,Any
+1409,23,33,Sunni,Masters,Any
+1410,21,30,Sunni,High School,Any
+1411,21,27,Shia,Bachelors,"Delhi,Jaipur"
+1412,30,40,Any,High School,"Chennai,Hyderabad"
+1413,21,24,Any,Masters,"Chennai,Kolkata"
+1414,29,39,Any,High School,"Kolkata,Mumbai"
+1415,26,35,Sunni,Masters,Jaipur
+1416,43,53,Prefer not to say,Masters,Any
+1417,26,36,Sunni,High School,Any
+1418,24,33,Other,High School,"Aligarh,Chennai"
+1419,28,38,Sunni,Bachelors,"Kolkata,Lucknow,Patna"
+1420,36,45,Any,Bachelors,"Aligarh,Hyderabad,Kolkata"
+1421,21,31,Sunni,Bachelors,Bengaluru
+1422,21,28,Sunni,Masters,"Jaipur,Kolkata,Patna"
+1423,23,33,Any,Masters,Kolkata
+1424,31,40,Any,Bachelors,Any
+1425,21,26,Shia,Masters,Lucknow
+1426,23,32,Sunni,Masters,Mumbai
+1427,23,33,Sunni,Masters,Aligarh
+1428,32,42,Sunni,Bachelors,"Aligarh,Jaipur,Kolkata"
+1429,21,28,Sunni,High School,Any
+1430,26,35,Any,Masters,Any
+1431,27,36,Sunni,Masters,Srinagar
+1432,21,27,Sunni,High School,"Bengaluru,Patna"
+1433,21,26,Any,Masters,"Delhi,Jaipur,Srinagar"
+1434,26,36,Shia,Bachelors,Any
+1435,24,34,Any,High School,Any
+1436,33,43,Any,High School,Bhopal
+1437,24,34,Shia,Bachelors,"Chennai,Patna"
+1438,21,28,Any,Bachelors,Any
+1439,21,24,Any,Masters,Patna
+1440,25,35,Any,Bachelors,Chennai
+1441,29,39,Sunni,Masters,"Jaipur,Kolkata,Srinagar"
+1442,23,32,Any,Bachelors,Bengaluru
+1443,21,29,Any,Masters,Mumbai
+1444,21,30,Sunni,Masters,Any
+1445,21,28,Any,Masters,Any
+1446,29,38,Any,High School,"Jaipur,Mumbai,Srinagar"
+1447,21,24,Sunni,High School,Kolkata
+1448,21,29,Any,Bachelors,"Kolkata,Lucknow,Mumbai"
+1449,26,36,Sunni,High School,Any
+1450,21,26,Sunni,Bachelors,"Aligarh,Delhi"
+1451,21,25,Any,High School,"Mumbai,Patna"
+1452,21,22,Sunni,Bachelors,Aligarh
+1453,36,45,Any,Bachelors,"Bengaluru,Srinagar"
+1454,25,35,Other,Masters,"Bengaluru,Srinagar"
+1455,23,33,Any,High School,Lucknow
+1456,22,31,Sunni,Bachelors,Any
+1457,28,37,Sunni,Masters,"Delhi,Lucknow"
+1458,22,31,Prefer not to say,Masters,Mumbai
+1459,34,43,Sunni,High School,"Aligarh,Patna"
+1460,21,28,Shia,Masters,Mumbai
+1461,44,54,Any,Bachelors,Any
+1462,25,34,Sunni,High School,"Lucknow,Patna,Srinagar"
+1463,21,25,Shia,Bachelors,Bhopal
+1464,29,39,Sunni,Bachelors,Any
+1465,21,28,Prefer not to say,Masters,Any
+1466,21,28,Any,Masters,Any
+1467,26,36,Any,Masters,Any
+1468,21,28,Any,High School,Mumbai
+1469,40,50,Any,Masters,"Bhopal,Chennai,Srinagar"
+1470,23,32,Sunni,Bachelors,"Chennai,Hyderabad"
+1471,30,40,Shia,Bachelors,"Lucknow,Patna"
+1472,21,26,Shia,High School,Any
+1473,22,32,Shia,Masters,Lucknow
+1474,27,37,Any,Masters,"Aligarh,Bhopal,Hyderabad"
+1475,21,29,Sunni,Bachelors,"Delhi,Kolkata"
+1476,23,32,Any,Masters,"Bengaluru,Chennai,Hyderabad"
+1477,27,36,Sunni,High School,Any
+1478,29,39,Any,Bachelors,Any
+1479,21,28,Sunni,High School,"Bengaluru,Jaipur,Patna"
+1480,21,30,Any,Masters,"Jaipur,Kolkata,Patna"
+1481,30,40,Sunni,Masters,Patna
+1482,24,34,Sunni,High School,"Jaipur,Lucknow"
+1483,22,31,Shia,High School,Lucknow
+1484,21,23,Sunni,Masters,Mumbai
+1485,28,38,Shia,High School,"Aligarh,Delhi,Jaipur"
+1486,26,35,Any,Masters,Kolkata
+1487,23,33,Other,Bachelors,Any
+1488,26,36,Sunni,High School,Srinagar
+1489,21,25,Any,High School,Any
+1490,33,42,Any,Bachelors,Any
+1491,21,28,Sunni,High School,"Jaipur,Mumbai,Patna"
+1492,24,34,Any,Bachelors,"Chennai,Kolkata"
+1493,25,34,Sunni,Bachelors,Any
+1494,20,30,Sunni,High School,Bhopal
+1495,21,30,Sunni,Bachelors,Lucknow
+1496,21,27,Any,High School,"Bengaluru,Delhi,Kolkata"
+1497,21,31,Any,Bachelors,Any
+1498,37,46,Sunni,Masters,Any
+1499,22,32,Sunni,Bachelors,"Bengaluru,Chennai"
+1500,21,30,Sunni,High School,"Bengaluru,Chennai,Jaipur"
+1501,24,34,Any,High School,Any
+1502,25,34,Sunni,Bachelors,Lucknow
+1503,27,37,Sunni,High School,"Bengaluru,Srinagar"
+1504,30,40,Sunni,High School,Any
+1505,44,54,Shia,Masters,Kolkata
+1506,21,25,Sunni,High School,"Aligarh,Bhopal,Lucknow"
+1507,21,26,Sunni,Bachelors,Lucknow
+1508,21,26,Any,Bachelors,Kolkata
+1509,21,31,Other,Bachelors,"Bhopal,Srinagar"
+1510,28,38,Any,Bachelors,"Aligarh,Delhi,Jaipur"
+1511,21,23,Shia,High School,Srinagar
+1512,23,33,Sunni,Masters,"Bhopal,Patna"
+1513,24,34,Sunni,Masters,Bengaluru
+1514,22,31,Any,Masters,Hyderabad
+1515,26,35,Prefer not to say,Masters,"Lucknow,Mumbai"
+1516,21,25,Any,High School,"Jaipur,Srinagar"
+1517,26,36,Sunni,High School,Any
+1518,25,35,Sunni,High School,Any
+1519,21,28,Any,Masters,"Bhopal,Hyderabad,Lucknow"
+1520,21,26,Sunni,Masters,"Bengaluru,Chennai"
+1521,22,32,Any,Masters,Jaipur
+1522,24,34,Sunni,Masters,Any
+1523,21,24,Any,Bachelors,Any
+1524,31,41,Any,Bachelors,"Bhopal,Delhi"
+1525,26,36,Any,Bachelors,"Delhi,Jaipur"
+1526,33,43,Any,Masters,Any
+1527,21,26,Sunni,High School,"Hyderabad,Mumbai"
+1528,21,26,Any,Bachelors,Srinagar
+1529,21,28,Shia,Masters,"Aligarh,Bhopal,Kolkata"
+1530,21,30,Sunni,Bachelors,"Chennai,Delhi,Patna"
+1531,21,27,Any,Bachelors,"Chennai,Patna"
+1532,21,27,Shia,Masters,Mumbai
+1533,21,26,Other,Bachelors,"Delhi,Hyderabad,Mumbai"
+1534,21,24,Sunni,High School,"Kolkata,Lucknow"
+1535,27,37,Sunni,Masters,"Kolkata,Lucknow"
+1536,32,42,Shia,High School,Bengaluru
+1537,21,25,Prefer not to say,Bachelors,"Chennai,Mumbai,Patna"
+1538,21,29,Any,Bachelors,"Jaipur,Kolkata"
+1539,29,39,Sunni,Bachelors,Any
+1540,21,29,Any,Masters,Any
+1541,29,38,Sunni,Masters,Any
+1542,21,28,Any,Bachelors,Delhi
+1543,21,28,Any,Masters,Any
+1544,21,22,Sunni,Masters,Bengaluru
+1545,27,37,Sunni,High School,Srinagar
+1546,24,34,Sunni,High School,"Lucknow,Mumbai,Srinagar"
+1547,24,33,Sunni,Bachelors,Bhopal
+1548,21,29,Any,Masters,Any
+1549,27,37,Any,Masters,"Hyderabad,Lucknow,Srinagar"
+1550,21,23,Sunni,High School,"Aligarh,Bhopal,Mumbai"
+1551,22,31,Any,High School,Any
+1552,21,27,Any,Bachelors,"Chennai,Lucknow"
+1553,22,32,Sunni,High School,"Bhopal,Mumbai"
+1554,21,28,Sunni,High School,Any
+1555,24,34,Any,Masters,Lucknow
+1556,21,30,Sunni,Bachelors,Any
+1557,21,25,Sunni,High School,Any
+1558,24,34,Any,Masters,"Hyderabad,Mumbai,Patna"
+1559,22,32,Other,Bachelors,Any
+1560,29,39,Sunni,Masters,"Bengaluru,Lucknow"
+1561,23,33,Any,Masters,Any
+1562,28,38,Sunni,High School,"Chennai,Srinagar"
+1563,21,26,Any,Bachelors,Any
+1564,22,31,Sunni,Masters,Any
+1565,21,30,Sunni,Masters,Any
+1566,21,26,Any,Masters,Patna
+1567,27,37,Sunni,High School,Any
+1568,21,26,Any,Bachelors,Aligarh
+1569,21,26,Prefer not to say,Masters,"Jaipur,Srinagar"
+1570,21,24,Any,Bachelors,Hyderabad
+1571,21,27,Sunni,High School,Any
+1572,25,35,Any,Masters,Any
+1573,34,43,Any,Bachelors,Any
+1574,30,40,Sunni,Masters,Any
+1575,34,43,Sunni,Masters,"Aligarh,Bhopal,Chennai"
+1576,24,33,Sunni,Bachelors,"Delhi,Jaipur,Srinagar"
+1577,30,40,Any,Masters,"Hyderabad,Srinagar"
+1578,24,34,Sunni,Bachelors,"Aligarh,Lucknow"
+1579,21,28,Sunni,Masters,"Aligarh,Mumbai"
+1580,21,30,Sunni,Bachelors,"Aligarh,Srinagar"
+1581,21,25,Sunni,Bachelors,"Jaipur,Lucknow"
+1582,23,32,Any,Bachelors,Any
+1583,21,30,Any,High School,Hyderabad
+1584,21,23,Prefer not to say,Masters,"Bhopal,Srinagar"
+1585,21,28,Sunni,Masters,Any
+1586,24,33,Sunni,Bachelors,Patna
+1587,21,23,Sunni,High School,"Chennai,Patna"
+1588,20,30,Sunni,Masters,"Bhopal,Delhi,Lucknow"
+1589,24,34,Sunni,Masters,Aligarh
+1590,21,29,Shia,Masters,Lucknow
+1591,21,26,Any,High School,"Aligarh,Bengaluru,Lucknow"
+1592,21,25,Any,Masters,Any
+1593,21,29,Sunni,High School,Any
+1594,21,28,Shia,Masters,Bengaluru
+1595,21,29,Any,Bachelors,Any
+1596,28,38,Any,High School,"Bengaluru,Delhi,Patna"
+1597,27,37,Any,Masters,"Bhopal,Chennai,Hyderabad"
+1598,21,25,Sunni,High School,Srinagar
+1599,21,28,Any,Bachelors,"Hyderabad,Lucknow,Mumbai"
+1600,26,36,Sunni,Masters,Mumbai
+1601,25,34,Any,Bachelors,Any
+1602,21,26,Any,High School,"Aligarh,Jaipur,Patna"
+1603,26,36,Sunni,Masters,Any
+1604,26,36,Any,High School,Hyderabad
+1605,21,27,Any,High School,"Chennai,Jaipur,Patna"
+1606,30,39,Sunni,Masters,"Chennai,Mumbai"
+1607,21,24,Any,Bachelors,Any
+1608,21,26,Sunni,Bachelors,"Bengaluru,Mumbai"
+1609,21,23,Shia,High School,Any
+1610,21,27,Any,Bachelors,Any
+1611,22,31,Sunni,Bachelors,Kolkata
+1612,21,25,Any,Bachelors,Any
+1613,25,34,Any,Bachelors,"Chennai,Delhi,Kolkata"
+1614,23,33,Sunni,High School,"Hyderabad,Kolkata"
+1615,22,31,Any,Bachelors,"Chennai,Kolkata,Mumbai"
+1616,33,42,Sunni,Masters,Any
+1617,33,43,Sunni,High School,"Bhopal,Srinagar"
+1618,21,26,Any,Bachelors,"Hyderabad,Kolkata"
+1619,30,40,Any,Bachelors,"Bengaluru,Patna"
+1620,26,36,Any,Bachelors,Patna
+1621,27,37,Sunni,Bachelors,"Aligarh,Mumbai"
+1622,28,38,Any,Masters,"Lucknow,Patna"
+1623,21,29,Sunni,High School,"Chennai,Kolkata,Mumbai"
+1624,22,31,Any,Masters,"Delhi,Mumbai"
+1625,21,28,Sunni,Bachelors,Any
+1626,23,32,Any,Bachelors,Any
+1627,23,32,Sunni,High School,"Mumbai,Patna,Srinagar"
+1628,21,26,Any,Bachelors,Any
+1629,26,36,Sunni,High School,Patna
+1630,30,40,Sunni,High School,"Hyderabad,Kolkata"
+1631,22,31,Sunni,High School,"Bhopal,Chennai,Kolkata"
+1632,21,26,Sunni,Masters,"Bengaluru,Hyderabad,Patna"
+1633,24,34,Sunni,Bachelors,"Aligarh,Delhi,Lucknow"
+1634,23,32,Any,High School,Any
+1635,22,31,Any,Bachelors,"Bengaluru,Hyderabad,Patna"
+1636,43,53,Shia,High School,Bhopal
+1637,36,45,Sunni,High School,"Bhopal,Chennai,Delhi"
+1638,22,31,Other,High School,Patna
+1639,21,27,Any,High School,"Kolkata,Mumbai,Patna"
+1640,21,29,Any,Bachelors,Kolkata
+1641,22,31,Sunni,Masters,Any
+1642,25,35,Shia,Masters,Bengaluru
+1643,42,52,Sunni,Masters,"Bengaluru,Mumbai"
+1644,37,46,Sunni,Masters,"Hyderabad,Srinagar"
+1645,26,36,Shia,Bachelors,Srinagar
+1646,21,26,Any,High School,"Chennai,Hyderabad,Mumbai"
+1647,29,39,Sunni,Masters,Lucknow
+1648,25,34,Sunni,High School,Any
+1649,41,51,Shia,High School,Lucknow
+1650,25,35,Sunni,Masters,Any
+1651,21,25,Any,Bachelors,"Mumbai,Srinagar"
+1652,21,23,Sunni,Masters,"Hyderabad,Srinagar"
+1653,25,35,Any,Bachelors,"Delhi,Patna"
+1654,27,37,Prefer not to say,High School,Bhopal
+1655,22,32,Any,Masters,Delhi
+1656,23,33,Any,Bachelors,"Chennai,Delhi,Kolkata"
+1657,23,33,Any,Bachelors,"Hyderabad,Jaipur,Lucknow"
+1658,21,24,Other,High School,Bengaluru
+1659,29,39,Sunni,Masters,"Aligarh,Delhi,Kolkata"
+1660,23,32,Sunni,Bachelors,"Bhopal,Kolkata"
+1661,22,31,Sunni,High School,Any
+1662,21,24,Sunni,High School,"Hyderabad,Kolkata"
+1663,21,26,Any,High School,"Aligarh,Hyderabad"
+1664,21,27,Any,Bachelors,"Bhopal,Mumbai"
+1665,22,32,Shia,Masters,Any
+1666,21,29,Any,Masters,Any
+1667,21,28,Any,Bachelors,"Delhi,Jaipur,Lucknow"
+1668,25,34,Other,High School,Any
+1669,44,54,Other,High School,"Delhi,Patna,Srinagar"
+1670,21,25,Sunni,Bachelors,Patna
+1671,21,24,Sunni,Masters,Delhi
+1672,30,40,Sunni,Masters,Lucknow
+1673,21,25,Sunni,Bachelors,Any
+1674,26,36,Any,Bachelors,"Hyderabad,Jaipur,Patna"
+1675,21,30,Sunni,High School,Jaipur
+1676,21,29,Sunni,Masters,Any
+1677,21,27,Sunni,Masters,"Kolkata,Lucknow,Patna"
+1678,21,27,Sunni,High School,Hyderabad
+1679,31,41,Any,High School,Any
+1680,28,38,Any,High School,"Bhopal,Jaipur"
+1681,28,38,Other,High School,Any
+1682,21,26,Any,Masters,"Bengaluru,Hyderabad,Kolkata"
+1683,29,38,Any,Masters,"Aligarh,Kolkata,Patna"
+1684,30,40,Any,High School,"Kolkata,Mumbai"
+1685,22,32,Any,Masters,"Aligarh,Chennai,Delhi"
+1686,34,43,Any,High School,"Bengaluru,Bhopal,Patna"
+1687,34,43,Sunni,High School,"Kolkata,Mumbai"
+1688,25,35,Any,High School,"Bhopal,Srinagar"
+1689,21,28,Sunni,High School,"Aligarh,Delhi,Jaipur"
+1690,21,26,Sunni,High School,"Bengaluru,Chennai,Srinagar"
+1691,21,27,Any,Masters,Any
+1692,22,32,Prefer not to say,High School,"Bhopal,Chennai,Srinagar"
+1693,44,54,Sunni,Masters,Any
+1694,21,25,Shia,Bachelors,"Bhopal,Mumbai"
+1695,26,36,Shia,High School,"Bhopal,Delhi,Jaipur"
+1696,24,33,Sunni,Masters,Any
+1697,28,38,Any,Bachelors,Any
+1698,22,31,Any,Bachelors,"Hyderabad,Patna"
+1699,23,32,Sunni,High School,"Delhi,Kolkata"
+1700,37,46,Sunni,High School,Any
+1701,24,33,Sunni,High School,"Bengaluru,Jaipur,Lucknow"
+1702,36,45,Any,High School,Kolkata
+1703,21,25,Prefer not to say,Masters,"Aligarh,Patna,Srinagar"
+1704,23,32,Sunni,Bachelors,"Hyderabad,Mumbai,Patna"
+1705,21,30,Any,Bachelors,"Bhopal,Kolkata,Mumbai"
+1706,23,32,Any,High School,"Bengaluru,Srinagar"
+1707,28,38,Shia,Masters,"Bengaluru,Delhi"
+1708,28,38,Shia,High School,Any
+1709,23,33,Any,High School,Chennai
+1710,21,26,Any,Bachelors,Any
+1711,32,41,Sunni,Masters,"Aligarh,Kolkata,Mumbai"
+1712,21,29,Sunni,Masters,"Jaipur,Mumbai,Patna"
+1713,22,32,Sunni,Bachelors,"Bhopal,Mumbai"
+1714,21,23,Shia,High School,Any
+1715,25,35,Any,Masters,Bengaluru
+1716,27,37,Sunni,High School,"Bengaluru,Delhi,Lucknow"
+1717,21,28,Shia,Bachelors,"Delhi,Jaipur,Mumbai"
+1718,26,36,Sunni,High School,Any
+1719,39,49,Any,Masters,Any
+1720,30,40,Sunni,Bachelors,Chennai
+1721,21,30,Any,Bachelors,"Bhopal,Delhi,Lucknow"
+1722,21,26,Any,Masters,"Chennai,Delhi,Patna"
+1723,21,25,Any,High School,"Bhopal,Mumbai"
+1724,28,38,Any,Bachelors,"Kolkata,Mumbai"
+1725,31,41,Any,High School,Any
+1726,21,26,Any,Bachelors,Any
+1727,23,33,Any,Masters,Patna
+1728,23,33,Any,Masters,Any
+1729,26,36,Any,High School,Any
+1730,21,25,Sunni,High School,"Aligarh,Srinagar"
+1731,21,29,Sunni,Masters,"Chennai,Jaipur,Srinagar"
+1732,27,37,Any,Masters,Hyderabad
+1733,21,30,Sunni,Masters,"Bhopal,Delhi,Lucknow"
+1734,22,32,Sunni,High School,"Chennai,Hyderabad,Lucknow"
+1735,35,44,Shia,Masters,Any
+1736,22,32,Sunni,High School,Any
+1737,21,27,Any,Masters,Any
+1738,21,27,Any,Bachelors,Any
+1739,22,32,Any,Masters,Any
+1740,24,34,Sunni,Bachelors,"Bhopal,Patna"
+1741,21,30,Any,Bachelors,Kolkata
+1742,21,26,Sunni,Bachelors,"Jaipur,Patna"
+1743,21,25,Sunni,Masters,"Bengaluru,Mumbai"
+1744,21,27,Other,High School,Jaipur
+1745,32,42,Sunni,Bachelors,"Bengaluru,Delhi,Kolkata"
+1746,27,36,Any,High School,"Chennai,Hyderabad,Kolkata"
+1747,41,51,Other,Masters,Srinagar
+1748,23,32,Prefer not to say,Bachelors,"Delhi,Lucknow,Patna"
+1749,29,38,Sunni,Bachelors,"Bhopal,Kolkata"
+1750,21,24,Sunni,High School,Delhi
+1751,32,42,Sunni,High School,"Bhopal,Patna"
+1752,37,46,Any,High School,"Mumbai,Srinagar"
+1753,40,50,Sunni,High School,Bhopal
+1754,21,25,Other,Bachelors,Any
+1755,23,33,Sunni,High School,Mumbai
+1756,25,35,Any,Masters,"Chennai,Hyderabad"
+1757,31,41,Any,Bachelors,Any
+1758,21,28,Any,Masters,"Chennai,Hyderabad"
+1759,24,34,Sunni,Bachelors,Hyderabad
+1760,32,42,Sunni,Bachelors,Any
+1761,21,23,Sunni,Masters,Mumbai
+1762,21,27,Sunni,High School,Jaipur
+1763,27,36,Any,Masters,Delhi
+1764,26,36,Sunni,Bachelors,"Aligarh,Chennai"
+1765,26,35,Sunni,Masters,Any
+1766,22,31,Any,High School,Lucknow
+1767,21,25,Any,Bachelors,"Aligarh,Srinagar"
+1768,21,29,Any,High School,Any
+1769,21,26,Any,Bachelors,"Lucknow,Srinagar"
+1770,25,34,Any,Masters,Any
+1771,28,38,Other,Bachelors,Any
+1772,21,25,Prefer not to say,High School,Any
+1773,26,36,Any,Bachelors,Any
+1774,21,23,Sunni,High School,"Aligarh,Delhi,Srinagar"
+1775,24,34,Sunni,Bachelors,Aligarh
+1776,25,34,Other,Bachelors,"Jaipur,Mumbai"
+1777,30,40,Sunni,Masters,Srinagar
+1778,21,30,Any,Masters,Any
+1779,21,29,Sunni,Bachelors,Any
+1780,21,29,Any,High School,"Aligarh,Chennai,Patna"
+1781,22,32,Other,Masters,Mumbai
+1782,21,24,Sunni,Masters,Any
+1783,21,27,Any,Bachelors,Any
+1784,21,27,Sunni,High School,Any
+1785,21,27,Sunni,High School,Bengaluru
+1786,21,28,Sunni,Bachelors,"Chennai,Mumbai"
+1787,25,35,Sunni,Masters,Any
+1788,21,29,Sunni,Bachelors,"Kolkata,Mumbai,Patna"
+1789,26,36,Any,Bachelors,Mumbai
+1790,24,34,Sunni,Masters,Any
+1791,21,29,Prefer not to say,Bachelors,"Chennai,Delhi,Lucknow"
+1792,21,25,Prefer not to say,Masters,Delhi
+1793,21,25,Sunni,Bachelors,Any
+1794,21,31,Any,Masters,Any
+1795,28,38,Sunni,Bachelors,Jaipur
+1796,21,30,Prefer not to say,Bachelors,"Hyderabad,Jaipur"
+1797,21,28,Sunni,Masters,"Chennai,Srinagar"
+1798,26,35,Shia,Masters,Lucknow
+1799,28,38,Any,Bachelors,Any
+1800,25,35,Shia,High School,"Hyderabad,Lucknow,Patna"
+1801,34,44,Any,Masters,Hyderabad
+1802,21,26,Sunni,Bachelors,Bhopal
+1803,21,26,Sunni,Bachelors,"Aligarh,Chennai,Kolkata"
+1804,23,33,Any,Masters,Any
+1805,21,24,Shia,High School,"Bengaluru,Mumbai,Patna"
+1806,41,51,Any,Bachelors,"Bengaluru,Kolkata,Lucknow"
+1807,29,39,Any,Masters,"Aligarh,Chennai,Mumbai"
+1808,24,34,Shia,Masters,"Jaipur,Srinagar"
+1809,21,23,Sunni,Bachelors,Lucknow
+1810,29,39,Sunni,Masters,Any
+1811,36,45,Sunni,Bachelors,Any
+1812,22,31,Any,Bachelors,"Aligarh,Bengaluru,Kolkata"
+1813,21,29,Sunni,Masters,"Bhopal,Hyderabad,Kolkata"
+1814,30,40,Other,Bachelors,Chennai
+1815,21,30,Any,High School,Any
+1816,21,26,Sunni,Bachelors,Bhopal
+1817,33,42,Any,Masters,Hyderabad
+1818,30,40,Shia,Bachelors,Any
+1819,21,28,Other,High School,Any
+1820,21,28,Other,High School,"Bhopal,Jaipur"
+1821,21,25,Any,Masters,"Bhopal,Jaipur,Srinagar"
+1822,21,27,Sunni,Bachelors,Bengaluru
+1823,35,44,Sunni,Masters,"Bhopal,Kolkata,Lucknow"
+1824,41,51,Sunni,High School,"Jaipur,Lucknow,Patna"
+1825,21,27,Sunni,High School,Any
+1826,27,37,Any,Masters,"Bhopal,Delhi,Kolkata"
+1827,20,30,Any,Bachelors,"Aligarh,Delhi,Kolkata"
+1828,28,38,Any,Bachelors,"Jaipur,Mumbai"
+1829,25,35,Any,Bachelors,Any
+1830,21,27,Shia,High School,"Bhopal,Chennai,Hyderabad"
+1831,24,33,Other,Bachelors,Any
+1832,22,31,Sunni,Bachelors,"Bengaluru,Mumbai"
+1833,21,28,Any,Masters,"Bengaluru,Delhi,Mumbai"
+1834,21,25,Any,High School,"Bengaluru,Jaipur,Kolkata"
+1835,21,26,Sunni,Masters,Any
+1836,24,34,Any,High School,"Aligarh,Bengaluru,Srinagar"
+1837,21,26,Sunni,High School,Kolkata
+1838,23,33,Any,Masters,Any
+1839,23,33,Any,Bachelors,Any
+1840,21,31,Sunni,Masters,"Aligarh,Chennai"
+1841,32,42,Shia,High School,"Chennai,Lucknow,Srinagar"
+1842,41,51,Sunni,High School,"Aligarh,Chennai"
+1843,27,37,Any,Masters,Jaipur
+1844,26,36,Sunni,Bachelors,Kolkata
+1845,21,30,Sunni,Masters,"Hyderabad,Kolkata"
+1846,30,40,Any,High School,Aligarh
+1847,21,26,Any,Bachelors,"Delhi,Lucknow"
+1848,21,23,Any,Masters,"Bengaluru,Chennai,Lucknow"
+1849,21,26,Sunni,Bachelors,Any
+1850,24,33,Any,High School,"Bengaluru,Delhi"
+1851,33,43,Any,Masters,Any
+1852,21,31,Any,Bachelors,"Aligarh,Bhopal"
+1853,21,28,Any,Masters,Any
+1854,28,38,Any,Bachelors,Any
+1855,21,27,Any,Masters,Any
+1856,21,27,Any,Masters,"Bhopal,Chennai,Delhi"
+1857,21,28,Any,Masters,Any
+1858,29,39,Sunni,Masters,"Chennai,Jaipur,Srinagar"
+1859,21,27,Sunni,Bachelors,Any
+1860,21,25,Any,Bachelors,Any
+1861,28,38,Any,High School,Any
+1862,27,37,Shia,High School,"Bengaluru,Mumbai"
+1863,43,53,Prefer not to say,Bachelors,Jaipur
+1864,33,42,Sunni,High School,Any
+1865,23,32,Any,Masters,"Delhi,Jaipur,Kolkata"
+1866,29,39,Sunni,High School,Bhopal
+1867,25,34,Sunni,High School,"Bhopal,Srinagar"
+1868,25,35,Shia,Bachelors,Any
+1869,24,34,Any,Bachelors,Aligarh
+1870,21,30,Sunni,Masters,"Bhopal,Srinagar"
+1871,28,38,Shia,High School,Bengaluru
+1872,26,36,Sunni,Masters,Any
+1873,21,27,Sunni,Bachelors,Kolkata
+1874,27,37,Sunni,Masters,Hyderabad
+1875,21,26,Any,Masters,"Delhi,Mumbai,Patna"
+1876,21,26,Sunni,Bachelors,Bengaluru
+1877,21,31,Shia,Masters,Any
+1878,24,34,Any,High School,Any
+1879,27,37,Any,Bachelors,Any
+1880,25,34,Any,Bachelors,"Aligarh,Bhopal"
+1881,34,43,Sunni,Bachelors,"Bengaluru,Chennai"
+1882,21,27,Shia,Bachelors,"Jaipur,Lucknow"
+1883,21,28,Sunni,High School,"Jaipur,Mumbai"
+1884,30,40,Shia,Bachelors,Any
+1885,34,43,Any,Bachelors,Bengaluru
+1886,26,36,Prefer not to say,Bachelors,"Aligarh,Bengaluru,Bhopal"
+1887,28,38,Sunni,High School,Bengaluru
+1888,27,37,Any,High School,Delhi
+1889,21,28,Shia,Bachelors,"Aligarh,Lucknow,Srinagar"
+1890,22,32,Any,High School,Bengaluru
+1891,24,33,Sunni,Masters,Delhi
+1892,21,26,Other,High School,Any
+1893,21,28,Any,Masters,Any
+1894,35,44,Sunni,High School,"Hyderabad,Lucknow"
+1895,26,36,Any,Masters,Hyderabad
+1896,34,44,Sunni,High School,Any
+1897,21,25,Any,Masters,Patna
+1898,25,34,Other,Bachelors,"Bengaluru,Bhopal"
+1899,21,28,Any,Masters,Kolkata
+1900,21,26,Any,High School,"Delhi,Hyderabad"
+1901,35,45,Sunni,Masters,"Bengaluru,Chennai,Jaipur"
+1902,21,26,Sunni,High School,Bhopal
+1903,29,39,Sunni,High School,Any
+1904,39,49,Sunni,Masters,Any
+1905,22,32,Shia,Bachelors,"Aligarh,Bengaluru,Lucknow"
+1906,21,29,Other,Masters,Any
+1907,21,29,Any,Masters,Any
+1908,26,36,Sunni,High School,"Chennai,Patna"
+1909,24,34,Sunni,High School,"Delhi,Hyderabad"
+1910,21,27,Any,Masters,Any
+1911,21,27,Shia,Bachelors,"Aligarh,Bengaluru,Mumbai"
+1912,39,49,Any,Bachelors,"Bengaluru,Bhopal"
+1913,21,26,Any,Masters,"Jaipur,Patna"
+1914,27,37,Sunni,High School,"Delhi,Srinagar"
+1915,28,38,Any,Masters,"Delhi,Hyderabad,Jaipur"
+1916,23,33,Sunni,Bachelors,Any
+1917,23,33,Shia,Masters,"Bengaluru,Hyderabad,Jaipur"
+1918,23,33,Any,High School,Any
+1919,28,38,Sunni,High School,Hyderabad
+1920,21,27,Sunni,Bachelors,Any
+1921,27,37,Other,High School,Hyderabad
+1922,21,26,Any,High School,"Hyderabad,Lucknow"
+1923,21,31,Any,Masters,Any
+1924,23,32,Sunni,Masters,"Bengaluru,Mumbai,Srinagar"
+1925,27,36,Any,High School,"Aligarh,Hyderabad,Jaipur"
+1926,29,39,Sunni,Bachelors,"Aligarh,Bengaluru,Chennai"
+1927,21,25,Any,Masters,"Bhopal,Mumbai,Patna"
+1928,35,44,Sunni,High School,"Chennai,Hyderabad,Lucknow"
+1929,22,31,Sunni,Masters,Bhopal
+1930,24,33,Any,Bachelors,Any
+1931,27,37,Any,High School,Any
+1932,34,44,Sunni,Masters,"Patna,Srinagar"
+1933,21,23,Any,High School,"Aligarh,Bengaluru"
+1934,28,37,Any,Bachelors,"Bhopal,Jaipur,Lucknow"
+1935,21,28,Prefer not to say,Bachelors,Any
+1936,25,35,Prefer not to say,High School,Hyderabad
+1937,31,40,Sunni,High School,Jaipur
+1938,30,40,Sunni,Masters,"Bhopal,Lucknow"
+1939,21,28,Any,Masters,"Kolkata,Srinagar"
+1940,21,29,Shia,High School,"Kolkata,Mumbai"
+1941,21,24,Any,Masters,Any
+1942,28,38,Shia,Masters,Lucknow
+1943,21,24,Any,Masters,Any
+1944,21,23,Sunni,High School,"Bhopal,Chennai,Mumbai"
+1945,25,34,Sunni,High School,"Hyderabad,Mumbai,Srinagar"
+1946,21,27,Shia,Masters,Any
+1947,25,35,Any,High School,Any
+1948,28,38,Sunni,Masters,"Chennai,Mumbai"
+1949,21,28,Any,Masters,"Delhi,Hyderabad"
+1950,25,35,Any,Bachelors,Mumbai
+1951,21,24,Sunni,Bachelors,"Aligarh,Chennai"
+1952,30,40,Sunni,Bachelors,Any
+1953,26,36,Sunni,Masters,"Bengaluru,Patna"
+1954,26,36,Sunni,High School,Any
+1955,22,31,Sunni,Masters,Any
+1956,21,30,Any,High School,Any
+1957,23,33,Sunni,High School,"Delhi,Hyderabad,Lucknow"
+1958,23,32,Any,Masters,Bengaluru
+1959,21,23,Sunni,Masters,Kolkata
+1960,21,29,Other,High School,Any
+1961,26,35,Sunni,High School,Srinagar
+1962,21,24,Any,High School,"Bengaluru,Lucknow"
+1963,33,43,Any,Masters,Mumbai
+1964,29,38,Sunni,Masters,Any
+1965,31,40,Sunni,Masters,"Mumbai,Patna,Srinagar"
+1966,28,37,Sunni,Masters,"Bhopal,Hyderabad,Lucknow"
+1967,34,44,Other,High School,Any
+1968,22,32,Sunni,Masters,Aligarh
+1969,21,23,Sunni,High School,"Delhi,Jaipur,Mumbai"
+1970,21,28,Other,High School,Any
+1971,21,28,Any,Bachelors,Srinagar
+1972,21,23,Sunni,Bachelors,"Bengaluru,Chennai,Srinagar"
+1973,21,22,Sunni,Bachelors,"Chennai,Patna,Srinagar"
+1974,21,29,Any,Bachelors,"Mumbai,Patna"
+1975,36,46,Any,High School,Kolkata
+1976,30,40,Any,Bachelors,Kolkata
+1977,23,32,Shia,High School,"Delhi,Mumbai,Srinagar"
+1978,31,40,Any,High School,"Hyderabad,Lucknow"
+1979,21,24,Shia,Bachelors,"Bhopal,Hyderabad"
+1980,21,25,Shia,Masters,Any
+1981,21,24,Sunni,Masters,"Hyderabad,Lucknow,Mumbai"
+1982,21,30,Any,High School,"Chennai,Mumbai"
+1983,26,35,Shia,Masters,"Aligarh,Bhopal"
+1984,21,29,Any,Masters,"Aligarh,Bhopal"
+1985,21,26,Any,Masters,Any
+1986,27,37,Sunni,Bachelors,"Aligarh,Kolkata"
+1987,21,26,Any,Masters,Patna
+1988,25,35,Shia,Masters,"Chennai,Jaipur,Srinagar"
+1989,24,34,Sunni,Bachelors,Any
+1990,23,33,Sunni,Bachelors,Any
+1991,21,30,Any,Masters,"Delhi,Kolkata"
+1992,21,27,Any,Bachelors,Any
+1993,40,50,Sunni,High School,Any
+1994,27,37,Sunni,Bachelors,"Chennai,Hyderabad,Lucknow"
+1995,30,39,Any,High School,"Bhopal,Delhi,Jaipur"
+1996,21,26,Sunni,Masters,Aligarh
+1997,23,32,Sunni,Bachelors,"Aligarh,Hyderabad,Jaipur"
+1998,32,42,Sunni,Masters,Any
+1999,25,35,Other,Bachelors,Any
+2000,23,32,Any,Bachelors,Any
