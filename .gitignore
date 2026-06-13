@@ -58,3 +58,5 @@ share/python-wheels/
 # Temporary files
 *.tmp
 *.bak
+
+*.csv
