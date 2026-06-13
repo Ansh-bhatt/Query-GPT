@@ -60,3 +60,4 @@ share/python-wheels/
 *.bak
 
 *.csv
+csv/
